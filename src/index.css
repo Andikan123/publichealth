@@ -21,7 +21,7 @@ body {
   position: fixed;
   width: 250px;
   height: 100%;
-  background-color:  #0056b3;
+  background-color: #3182ce;
   color: white;
   padding: 2rem;
   display: flex;
@@ -50,7 +50,7 @@ body {
     display: none; /* Further reduce width for mobile screens */
   }
   .toggle {
-    background-color:  #358ce9;
+    background-color:#3182ce;
     padding: 40px 20px;
     width: 100vw;
     height: 50px;
@@ -62,7 +62,7 @@ body {
     z-index: 30;
   }
   .sidey {
-    background: #333;
+    background: #053868;
     transition: 0.3s;
     margin-top: 80px;
     position: fixed;
@@ -89,7 +89,7 @@ body {
     border-radius: 5px;
   }
   .sidey ul li:hover {
-    background-color: #3182ce;
+    background-color: #1e8bf1;
   }
   .sidey ul li a {
     color: white;
@@ -151,15 +151,12 @@ body {
     align-items: center;
     justify-content: center;
   }
-}
-
-/* Media Query for Extra Small Screens (max-width: 480px) */
-@media (max-width: 480px) {
-  .main-content {
-    margin-left: 120px; /* Adjust margin-left when sidebar width is 120px */
-    width: calc(100% - 120px); /* Make content width fill remaining space */
+  .course-list-page {
+    padding: 1rem;
   }
 }
+
+
 
 .main-content header {
   background-color: #2b6cb0;
@@ -237,7 +234,7 @@ footer {
   justify-content: center;
   align-items: center;
   height: 100vh; /* Full viewport height */
-  background-color:  #0056b3; /* Vibrant blue background */
+  background-color: #3182ce; /* Vibrant blue background */
 }
 
 /* Content Section */
@@ -312,7 +309,7 @@ footer {
 /* src/CoursePage.css */
 .course-page {
   padding: 2rem;
-  background-color: rgb(57, 55, 55); /* Vibrant blue background */
+  background-color:#3182ce; /* Vibrant blue background */
 }
 
 .course-page h1 {
@@ -345,14 +342,14 @@ footer {
 /* src/CourseList.css */
 .course-list-page {
   padding: 2rem;
-  background-color: rgb(57, 55, 55); /* Vibrant blue background */
+  background-color: #3182ce; /* Vibrant blue background */
+  color: white;
 }
 
 .course-list-page h1 {
   font-size: 2rem;
   margin-bottom: 1.5rem;
   text-align: center;
-  color: white;
 }
 
 .course-list {
@@ -379,6 +376,7 @@ footer {
   font-size: 1.25rem;
   font-weight: bold;
   margin-bottom: 1rem;
+  color: rgb(105, 102, 102);
 }
 
 .course-card p {
@@ -405,7 +403,7 @@ footer {
 /* Notes Section */
 .notes-section {
   background-color: #ffffff;
-  padding: 2rem;
+  padding: 2rem 0.5rem;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   margin-bottom: 2rem;
@@ -569,7 +567,7 @@ footer {
 .quizzes-page {
   padding: 2rem;
   font-family: Arial, sans-serif;
-  background-color: rgb(57, 55, 55); /* Vibrant blue background */
+  background-color: #3182ce; /* Vibrant blue background */
   color: wheat;
 }
 
@@ -622,6 +620,11 @@ button:hover {
   color: #f4f4f4;
   font-family: "Poppins", sans-serif;
   text-align: center;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  flex-direction: column;
 }
 
 .videos-title {

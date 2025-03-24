@@ -9,7 +9,7 @@ import Videos from "./components/Videos";
 import logo from "./assets/logo.webp";
 
 const App = () => {
-  const [isSidebarOpen, setIsSidebarOpen] = useState(true);
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
   return (
     <Router>

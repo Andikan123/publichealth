@@ -20,7 +20,7 @@ const CoursePage = () => {
       {course.video && (
         <div className="lesson-video">
           <h4>Watch Lesson Video</h4>
-          <video controls width="100%">
+          <video controls width="100%" height="300px">
             <source src={course.video} type="video/mp4" />
             Your browser does not support the video tag.
           </video>
