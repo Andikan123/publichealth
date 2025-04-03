@@ -6487,6 +6487,447 @@ export const courses = [
   },
   {
     id: 6,
+    title: "FAMILY HEALTH",
+    description: "Family Health",
+    video: "https://path/to/video.mp4", // Link to a video
+    content: 
+    <div
+    style={{
+      maxWidth: "90%",
+      margin: "auto",
+      padding: "50px",
+      background: "#f9fafb",
+      borderRadius: "20px",
+      boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.1)",
+      fontFamily: "'Roboto', sans-serif",
+      lineHeight: "1.8",
+    }}
+  >
+    <h2
+      style={{
+        color: "#2c3e50",
+        textAlign: "center",
+        fontSize: "36px",
+        marginBottom: "30px",
+        textTransform: "uppercase",
+        fontWeight: "bold",
+      }}
+    >
+      👨‍👩‍👧‍👦 Understanding Family Nursing
+    </h2>
+
+    <p
+      style={{
+        color: "#34495e",
+        fontSize: "18px",
+        marginBottom: "20px",
+        textAlign: "center",
+      }}
+    >
+      "The family is composed of many subsystems and is embedded in social systems that influence health, including education, employment, and housing."
+    </p>
+
+    <h3 style={{ color: "#2c3e50", fontSize: "24px", fontWeight: "bold" }}>The Changing Family</h3>
+    <p style={{ color: "#34495e", fontSize: "18px" }}>
+      Family is a group of two or more people related by blood, marriage, adoption, or mutual commitment who care for one another.
+    </p>
+
+    <h3 style={{ color: "#2c3e50", fontSize: "24px", fontWeight: "bold" }}>Family Definition by HRC (2009)</h3>
+    <p style={{ color: "#34495e", fontSize: "18px" }}>
+      Family means any person(s) who plays a significant role in an individual’s life. This may include individuals not legally related but fulfilling a caretaking role.
+    </p>
+
+    <h3 style={{ color: "#2c3e50", fontSize: "24px", fontWeight: "bold" }}>Characteristics of the Changing Family</h3>
+    <p style={{ color: "#34495e", fontSize: "18px" }}>
+      The concept of the family continues to evolve. Historically, the nuclear family was defined as a unit consisting of a husband, wife, and their immediate children, whether biological or adopted.
+    </p>
+
+    <h3 style={{ color: "#2c3e50", fontSize: "24px", fontWeight: "bold" }}>Cohabitation</h3>
+    <p style={{ color: "#34495e", fontSize: "18px" }}>
+      Many people cohabit to test a relationship’s viability for marriage. However, studies suggest that cohabitation before marriage may increase the risk of divorce.
+    </p>
+
+    <h3 style={{ color: "#2c3e50", fontSize: "24px", fontWeight: "bold" }}>Single-Parent Households</h3>
+    <p style={{ color: "#34495e", fontSize: "18px" }}>
+      Single parenting is associated with increased social, emotional, and financial challenges. In 2017, 32% of U.S. children lived in single-parent households.
+    </p>
+
+    <h3 style={{ color: "#2c3e50", fontSize: "24px", fontWeight: "bold" }}>The Gay or Lesbian Family</h3>
+    <p style={{ color: "#34495e", fontSize: "18px" }}>
+      Same-sex families may or may not have children. Estimates suggest that between 6% to 11% of children live in households with lesbian or gay parents.
+    </p>
+    <div
+      style={{
+
+        margin: "auto",
+        padding: "50px",
+        background: "#eef2ff",
+        borderRadius: "20px",
+        boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.15)",
+        fontFamily: "'Roboto', sans-serif",
+        lineHeight: "1.8",
+        color: "#2c3e50",
+      }}
+    >
+      <h2
+        style={{
+          color: "#1e3a8a",
+          textAlign: "center",
+          fontSize: "36px",
+          marginBottom: "30px",
+          textTransform: "uppercase",
+          fontWeight: "bold",
+        }}
+      >
+        🏡 Approaches to Meeting the Health Needs of Families
+      </h2>
+
+      <p style={{ fontSize: "18px", textAlign: "center", fontStyle: "italic" }}>
+        "Community health nursing views the family as a crucial unit of healthcare, recognizing the impact of family interactions on individual health."
+      </p>
+
+      <h3 style={{ color: "#1e40af", fontSize: "24px", fontWeight: "bold" }}>Importance of Working with Families</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>👨‍👩‍👧‍👦 The family is a vital resource in caregiving and promoting health.</li>
+        <li>⚕️ Family dysfunction affects all members.</li>
+        <li>🔍 Case finding helps identify family-wide health risks.</li>
+        <li>💡 Holistic care improves nursing effectiveness.</li>
+      </ul>
+
+      <h3 style={{ color: "#1e40af", fontSize: "24px", fontWeight: "bold" }}>Moving from Individual to Family</h3>
+      <p style={{ fontSize: "18px" }}>
+        With the shift towards managed care and cost containment, community health nurses must adapt to broader family-centered approaches.
+      </p>
+
+      <h3 style={{ color: "#1e40af", fontSize: "24px", fontWeight: "bold" }}>Family Interviewing</h3>
+      <p style={{ fontSize: "18px" }}>
+        The community health nurse applies systems and communication models to assess families' responses to major life events.
+      </p>
+
+      <h4 style={{ color: "#1e40af", fontSize: "20px", fontWeight: "bold" }}>Critical Components of Family Interview</h4>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>🎭 Manners</li>
+        <li>💬 Therapeutic conversation</li>
+        <li>❓ Therapeutic questions</li>
+        <li>📜 Family genogram and eco-map</li>
+        <li>🏆 Commendations</li>
+      </ul>
+
+      <h3 style={{ color: "#1e40af", fontSize: "24px", fontWeight: "bold" }}>Approaches to Family Health</h3>
+      <p style={{ fontSize: "18px" }}>
+        Community health interventions are rooted in psychological and social theories, including those of Erikson, Maslow, and Duvall.
+      </p>
+
+      <h3 style={{ color: "#1e40af", fontSize: "24px", fontWeight: "bold" }}>Family Theory</h3>
+      <p style={{ fontSize: "18px" }}>
+        Friedman (1998) outlined six reasons for working with families:
+      </p>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>⚡ Family dysfunction affects all members.</li>
+        <li>🏥 Family involvement enhances health outcomes.</li>
+        <li>🌿 Lifestyle and environmental risks can be reduced.</li>
+        <li>🔍 Family-based case finding identifies shared health risks.</li>
+        <li>🧩 Understanding individuals requires a family context.</li>
+        <li>🤝 Family support is crucial for effective treatment.</li>
+      </ul>
+    </div>
+
+    <div
+      style={{
+        margin: "auto",
+        padding: "50px",
+        background: "#fdf6e3",
+        borderRadius: "20px",
+        boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.2)",
+        fontFamily: "'Poppins', sans-serif",
+        lineHeight: "1.8",
+        color: "#2c3e50",
+      }}
+    >
+      <h2
+        style={{
+          color: "#d97706",
+          textAlign: "center",
+          fontSize: "36px",
+          marginBottom: "30px",
+          textTransform: "uppercase",
+          fontWeight: "bold",
+        }}
+      >
+        🏡 Characteristics of Healthy Families
+      </h2>
+
+      <p style={{ fontSize: "18px", textAlign: "center", fontStyle: "italic" }}>
+        "Healthy families are resilient, connected, and equipped to handle life's challenges while fostering growth and support."
+      </p>
+
+      <h3 style={{ color: "#b45309", fontSize: "24px", fontWeight: "bold" }}>Key Traits of Healthy Families</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>💬 Open and effective communication.</li>
+        <li>🤝 Support, respect, and affirmation among members.</li>
+        <li>🙏 Shared values, beliefs, and religious core.</li>
+        <li>🎭 Sense of humor and shared leisure activities.</li>
+        <li>🆘 Ability to cope with stress and seek professional help when needed.</li>
+      </ul>
+
+      <h3 style={{ color: "#b45309", fontSize: "24px", fontWeight: "bold" }}>Structural-Functional Conceptual Framework</h3>
+      <p style={{ fontSize: "18px" }}>
+        This approach examines the family in terms of structure (its members and organization) and function (how roles are fulfilled).
+      </p>
+
+      <h4 style={{ color: "#b45309", fontSize: "20px", fontWeight: "bold" }}>🔹 Structural Aspects</h4>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>🏠 <b>Internal Structure:</b> Composition, gender roles, birth order.</li>
+        <li>🌍 <b>External Structure:</b> Extended family influence and societal systems.</li>
+        <li>📌 <b>Context:</b> Ethnicity, social class, religion, environment.</li>
+      </ul>
+
+      <h4 style={{ color: "#b45309", fontSize: "20px", fontWeight: "bold" }}>🔹 Functional Aspects</h4>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>🛠️ <b>Instrumental Functioning:</b> Daily routines like eating, sleeping, and health maintenance.</li>
+        <li>❤️ <b>Expressive Functioning:</b> Emotional and communication patterns.</li>
+      </ul>
+
+      <h3 style={{ color: "#b45309", fontSize: "24px", fontWeight: "bold" }}>🔄 Nine Categories of Expressive Functioning</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>🗣️ Emotional communication</li>
+        <li>📢 Verbal and nonverbal communication</li>
+        <li>🔄 Circular communication</li>
+        <li>🧩 Problem-solving strategies</li>
+        <li>🎭 Role distribution</li>
+        <li>👥 Influence within the family</li>
+        <li>💭 Shared beliefs</li>
+        <li>🤝 Alliances and coalitions</li>
+      </ul>
+    </div>
+
+    <div
+      style={{
+        margin: "auto",
+        padding: "50px",
+        background: "#eef2ff",
+        borderRadius: "20px",
+        boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.2)",
+        fontFamily: "'Poppins', sans-serif",
+        lineHeight: "1.8",
+        color: "#2c3e50",
+      }}
+    >
+      <h2
+        style={{
+          color: "#4f46e5",
+          textAlign: "center",
+          fontSize: "36px",
+          marginBottom: "30px",
+          textTransform: "uppercase",
+          fontWeight: "bold",
+        }}
+      >
+        🏥 Assessment Tools in Community Health Nursing
+      </h2>
+
+      <p style={{ fontSize: "18px", textAlign: "center", fontStyle: "italic" }}>
+        "Assessment tools provide community health nurses with structured methods to evaluate family health, structure, and environmental influences."
+      </p>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🗂️ Family Genogram</h3>
+      <p style={{ fontSize: "18px" }}>
+        The genogram is a graphical tool used to map family relationships and medical history across generations.
+      </p>
+      <p><b>Example:</b> A nurse working with a patient diagnosed with diabetes can use a genogram to identify hereditary patterns of diabetes in the family.</p>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🌳 Family Health Tree</h3>
+      <p style={{ fontSize: "18px" }}>
+        The family health tree builds upon the genogram, providing a record of health conditions and risks within the family.
+      </p>
+      <p><b>Example:</b> A nurse assessing cardiovascular disease risks may create a family health tree to track occurrences of hypertension and heart disease.</p>
+
+      <h4 style={{ color: "#4338ca", fontSize: "20px", fontWeight: "bold" }}>🔍 Key Considerations for Nurses:</h4>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>📌 Causes of death in family history.</li>
+        <li>🧬 Genetically linked diseases.</li>
+        <li>🏭 Environmental and occupational hazards.</li>
+        <li>🧠 Psychosocial issues (e.g., mental illness, obesity).</li>
+        <li>🦠 Infectious diseases.</li>
+        <li>⚠️ Familial and lifestyle-related risk factors.</li>
+      </ul>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🌍 Ecomap</h3>
+      <p style={{ fontSize: "18px" }}>
+        An ecomap is a diagram that visually represents the family's social relationships, highlighting supportive and stressful interactions.
+      </p>
+      <p><b>Example:</b> A nurse might create an ecomap for a family with a disabled child to illustrate community support systems and gaps in care.</p>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🏠 Family Health Assessment</h3>
+      <p style={{ fontSize: "18px" }}>
+        This tool evaluates the family’s structure, function, and environment, helping nurses tailor interventions.
+      </p>
+      <p><b>Example:</b> A nurse assessing a low-income family may focus on access to healthcare services, nutrition, and social support.</p>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🩺 Applying the Nursing Process</h3>
+      <p style={{ fontSize: "18px" }}>
+        Nurses conduct home visits to identify health needs and create intervention plans benefiting entire populations.
+      </p>
+      <p><b>Example:</b> A community health nurse visits a home to educate parents on proper nutrition and hygiene for their children.</p>
+    </div>
+  </div>,
+  
+   
+    quiz: [
+      {
+        question: "What is the primary role of family in health?",
+        options: ["Providing individual care only", "Influencing health through social systems", "Replacing healthcare providers"],
+        correctAnswer: "Influencing health through social systems",
+      },
+      {
+        question: "Which of the following is NOT a characteristic of a changing family?",
+        options: ["Nuclear family as the only acceptable structure", "Inclusion of same-sex families", "Rise in single-parent households"],
+        correctAnswer: "Nuclear family as the only acceptable structure",
+      },
+      {
+        question: "According to HRC (2009), family is defined as:",
+        options: ["A legal bond between individuals", "Any person(s) playing a significant role in an individual's life", "A unit consisting only of blood relatives"],
+        correctAnswer: "Any person(s) playing a significant role in an individual's life",
+      },
+      {
+        question: "Cohabitation before marriage is linked to:",
+        options: ["A decrease in relationship conflicts", "An increased risk of divorce", "No impact on future marriage stability"],
+        correctAnswer: "An increased risk of divorce",
+      },
+      {
+        question: "What percentage of U.S. children lived in single-parent households in 2017?",
+        options: ["25%", "32%", "40%"],
+        correctAnswer: "32%",
+      },
+      {
+        question: "What is a key characteristic of community health nursing?",
+        options: ["Focusing only on individuals", "Viewing the family as a crucial unit of care", "Avoiding involvement with family dynamics"],
+        correctAnswer: "Viewing the family as a crucial unit of care",
+      },
+      {
+        question: "Why is family considered a critical resource in caregiving?",
+        options: ["It provides financial support", "It can improve health promotion and wellness", "It replaces healthcare professionals"],
+        correctAnswer: "It can improve health promotion and wellness",
+      },
+      {
+        question: "Family dysfunction affects:",
+        options: ["Only the person experiencing the dysfunction", "The entire family unit", "Only the parents of the family"],
+        correctAnswer: "The entire family unit",
+      },
+      {
+        question: "A family interview includes all of the following EXCEPT:",
+        options: ["Therapeutic questions", "Family genogram and eco-map", "Financial analysis"],
+        correctAnswer: "Financial analysis",
+      },
+      {
+        question: "What is NOT a component of a family interview?",
+        options: ["Manners", "Role-play", "Commendations"],
+        correctAnswer: "Role-play",
+      },
+      {
+        question: "Community health interventions are influenced by which theories?",
+        options: ["Only medical theories", "Psychological and social theories", "Technological theories"],
+        correctAnswer: "Psychological and social theories",
+      },
+      {
+        question: "According to Friedman (1998), why should nurses work with families?",
+        options: ["Family dysfunction affects all members", "Families can diagnose diseases", "Families always provide financial aid"],
+        correctAnswer: "Family dysfunction affects all members",
+      },
+      {
+        question: "Which of the following is NOT a trait of healthy families?",
+        options: ["Open communication", "High levels of stress without coping mechanisms", "Shared values and beliefs"],
+        correctAnswer: "High levels of stress without coping mechanisms",
+      },
+      {
+        question: "Structural-functional conceptual framework examines:",
+        options: ["The physical structure of houses", "Family organization and role fulfillment", "Legal marriage requirements"],
+        correctAnswer: "Family organization and role fulfillment",
+      },
+      {
+        question: "Internal family structure includes:",
+        options: ["Family composition and rank order", "Community resources", "Government policies"],
+        correctAnswer: "Family composition and rank order",
+      },
+      {
+        question: "External family structure includes:",
+        options: ["Family of origin and procreation", "Family traditions only", "Personal hobbies"],
+        correctAnswer: "Family of origin and procreation",
+      },
+      {
+        question: "The context of a family includes:",
+        options: ["Ethnicity, religion, and social class", "Only their physical environment", "Medical history alone"],
+        correctAnswer: "Ethnicity, religion, and social class",
+      },
+      {
+        question: "Instrumental functioning in a family involves:",
+        options: ["Managing emotions", "Carrying out daily activities", "Family role distribution"],
+        correctAnswer: "Carrying out daily activities",
+      },
+      {
+        question: "Expressive functioning refers to:",
+        options: ["Emotional and communication patterns", "Daily chores", "Government benefits"],
+        correctAnswer: "Emotional and communication patterns",
+      },
+      {
+        question: "Which of the following is an example of expressive functioning?",
+        options: ["Cooking dinner", "Family members expressing feelings openly", "Buying groceries"],
+        correctAnswer: "Family members expressing feelings openly",
+      },
+      {
+        question: "What does a family genogram help to identify?",
+        options: ["Family structure and hereditary health risks", "Financial issues in the household", "The legal status of family members"],
+        correctAnswer: "Family structure and hereditary health risks",
+      },
+      {
+        question: "A family health tree is useful for:",
+        options: ["Tracking family vacations", "Recording family medical history", "Organizing household chores"],
+        correctAnswer: "Recording family medical history",
+      },
+      {
+        question: "What should a nurse NOT include in a family health tree?",
+        options: ["Genetic diseases", "Causes of death", "Favorite family hobbies"],
+        correctAnswer: "Favorite family hobbies",
+      },
+      {
+        question: "What is an ecomap used for?",
+        options: ["To track financial expenses", "To show family social relationships and community connections", "To measure home size"],
+        correctAnswer: "To show family social relationships and community connections",
+      },
+      {
+        question: "How can a nurse use an ecomap?",
+        options: ["To assess family relationships and available support systems", "To teach math skills to family members", "To determine legal guardianship"],
+        correctAnswer: "To assess family relationships and available support systems",
+      },
+      {
+        question: "What does a family health assessment evaluate?",
+        options: ["Only financial status", "Family structure, function, and environment", "The number of household appliances"],
+        correctAnswer: "Family structure, function, and environment",
+      },
+      {
+        question: "How does home visiting benefit families?",
+        options: ["It allows nurses to directly assess health needs", "It replaces hospital treatment", "It focuses only on home maintenance"],
+        correctAnswer: "It allows nurses to directly assess health needs",
+      },
+      {
+        question: "Which tool provides a visual representation of family health history?",
+        options: ["Family genogram", "Social media profile", "Tax return documents"],
+        correctAnswer: "Family genogram",
+      },
+      {
+        question: "What key factor should nurses consider when using assessment tools?",
+        options: ["The unique needs of each family", "The family’s ability to pay for assessments", "Only government-approved tools"],
+        correctAnswer: "The unique needs of each family",
+      },
+      {
+        question: "Which of the following is NOT an assessment tool used in family nursing?",
+        options: ["Family health tree", "Ecomap", "Credit score report"],
+        correctAnswer: "Credit score report",
+      },
+    ]
+  },
+  {
+    id: 7,
     title: "Communicable Disease and Public Health Nursing",
     description: "Communicable Disease and Public Health Nursing",
     video: "https://path/to/video.mp4", // Link to a video
@@ -6705,160 +7146,3988 @@ export const courses = [
     >
       Over the last few decades, significant progress has been made in controlling major infectious diseases globally, though some remain a challenge. New emerging diseases and resistant strains continue to pose problems.
     </p>
+    <div
+  style={{
+    maxWidth: "90%",
+    margin: "auto",
+    padding: "50px",
+    background: "#f9f9f9",
+    borderRadius: "20px",
+    boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.1)",
+    fontFamily: "'Roboto', sans-serif",
+    lineHeight: "1.8",
+  }}
+>
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🌍 Global Trends in Communicable Diseases
+  </h2>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    Since 1995, over <strong>80% of the world’s children</strong> have been immunized against diseases such as diphtheria, tetanus, whooping cough, poliomyelitis, measles, and TB—compared to less than 5% in 1974.  
+  </p>
+
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>✅ <strong>1980:</strong> Smallpox eradicated globally.</li>
+    <li>🚰 <strong>Improved hygiene:</strong> Lice-transmitted relapsing fever is now rare.</li>
+    <li>💉 <strong>Poliomyelitis:</strong> Cases declined by 99% since immunization campaigns began.</li>
+    <li>🦟 <strong>Malaria:</strong> Remains a threat despite improved mortality rates.</li>
+  </ul>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    In <strong>1954</strong>, malaria caused <strong>2.5 million deaths</strong> annually, with 250 million cases worldwide. By <strong>2002</strong>, deaths ranged between 1.5 - 2.7 million, with <strong>300-500 million cases</strong>.
+  </p>
+
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2rem",
+      marginTop: "50px",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🦠 Emerging & Resurging Diseases
+  </h2>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    <strong>Emerging diseases</strong> are those that have rarely or never been seen in certain regions before. Examples include:
+  </p>
+
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🦠 <strong>Hantavirus:</strong> First observed in the Southwestern U.S. (1993).</li>
+    <li>🦟 <strong>Dengue fever:</strong> Brought into Texas through travel in the 1980s.</li>
+    <li>🧫 <strong>Typhoid:</strong> Detected in a Nigerian patient in New York (1994).</li>
+  </ul>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    <strong>Resurging diseases</strong> are those that were once endemic in certain regions but are now spreading to epidemic levels in other countries.
+  </p>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    One major cause of resurgence is <strong>drug resistance</strong>. For example:
+  </p>
+
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🦠 <strong>MDR-TB:</strong> A drug-resistant strain of tuberculosis.</li>
+    <li>🧫 <strong>Staphylococcus aureus:</strong> Some strains are now vancomycin-resistant.</li>
+    <li>💊 <strong>Limited antibiotic options:</strong> Two new antibiotics still work, but resistance is growing.</li>
+  </ul>
+</div>
+
+
+<div
+  style={{
+    maxWidth: "95%",
+    margin: "auto",
+    padding: "50px",
+    background: "#f9f9f9",
+    borderRadius: "20px",
+    boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.1)",
+    fontFamily: "'Roboto', sans-serif",
+    lineHeight: "1.8",
+  }}
+>
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🔄 Modes of Transmission
+  </h2>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    The <strong>reservoir of infection</strong> can be a person, animal, insect, or inanimate material in which the infectious agent lives and multiplies, serving as a <strong>source of infection</strong> to others.
+  </p>
+
+  <h3
+    style={{
+      color: "#2c3e50",
+      fontSize: "1.5rem",
+      marginTop: "30px",
+      marginBottom: "15px",
+      fontWeight: "bold",
+    }}
+  >
+    🚶‍♂️ Direct Transmission
+  </h3>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    Direct transmission occurs when infectious agents transfer <strong>immediately</strong> from a reservoir to a new host.
+  </p>
+
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🤝 <strong>Direct contact:</strong> Touching, biting, kissing, or sexual intercourse.</li>
+    <li>💦 <strong>Droplet transmission:</strong> Sneezing, coughing, spitting, laughing, singing, or talking.</li>
+    <li>👁️ <strong>Mucosal exposure:</strong> Droplets landing on the eyes, nose, or mouth.</li>
+  </ul>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    Direct transmission is usually limited to a distance of <strong>1 meter or less</strong>.
+  </p>
+
+  <h3
+    style={{
+      color: "#2c3e50",
+      fontSize: "1.5rem",
+      marginTop: "30px",
+      marginBottom: "15px",
+      fontWeight: "bold",
+    }}
+  >
+    🏭 Indirect Transmission
+  </h3>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    Indirect transmission occurs when an infectious agent is carried via <strong>contaminated inanimate materials</strong>, such as:
+  </p>
+
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🌬️ <strong>Airborne:</strong> Transmission through dust or respiratory droplets.</li>
+    <li>🚰 <strong>Waterborne:</strong> Contaminated drinking water or swimming areas.</li>
+    <li>🍽️ <strong>Foodborne:</strong> Contaminated food sources.</li>
+  </ul>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    This method of disease spread is also known as <strong>vehicle-borne transmission</strong>.
+  </p>
+</div>
+
+
+<div
+  style={{
+    maxWidth: "95%",
+    margin: "auto",
+    padding: "50px",
+    background: "#f9f9f9",
+    borderRadius: "20px",
+    boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.1)",
+    fontFamily: "'Roboto', sans-serif",
+    lineHeight: "1.8",
+  }}
+>
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🌬️ Airborne Transmission
+  </h2>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    Airborne transmission occurs through <strong>droplet nuclei</strong>—small residues resulting from the evaporation of fluid droplets emitted by an infected host.
+  </p>
+
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>💨 <strong>Suspended in air:</strong> Droplet nuclei can remain in the air for long periods before being inhaled.</li>
+    <li>🏥 <strong>Accidental inhalation:</strong> Created in microbiology labs or atomizing devices.</li>
+    <li>🦠 <strong>Dust transmission:</strong> Fungus spores from soil can cling to surfaces or be carried by wind.</li>
+  </ul>
+
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "1.8rem",
+      marginTop: "50px",
+      marginBottom: "20px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🛡️ Primary Prevention
+  </h2>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    In communicable disease control, two approaches are effective for primary prevention:
+  </p>
+
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>📢 <strong>Education:</strong> Using mass media and targeted health messages.</li>
+    <li>💉 <strong>Immunization:</strong> Vaccination against diseases.</li>
+  </ul>
+
+  <h3
+    style={{
+      color: "#2c3e50",
+      fontSize: "1.5rem",
+      marginTop: "30px",
+      marginBottom: "15px",
+      fontWeight: "bold",
+    }}
+  >
+    📺 Use of Mass Media for Health Education
+  </h3>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    The media plays a critical role in informing people about communicable diseases and preventive measures, especially for hard-to-reach populations.
+  </p>
+
+  <h4
+    style={{
+      color: "#2c3e50",
+      fontSize: "1.3rem",
+      marginTop: "20px",
+      marginBottom: "10px",
+      fontWeight: "bold",
+    }}
+  >
+    🔹 Four Key Roles of Mass Media:
+  </h4>
+
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>📡 <strong>Primary Change Agent:</strong> Spreading knowledge on disease prevention.</li>
+    <li>🩺 <strong>Supporting Other Efforts:</strong> Modeling behaviors like condom use & drug abstinence.</li>
+    <li>📊 <strong>Promoting Health Programs:</strong> Encouraging community participation in prevention services.</li>
+    <li>📢 <strong>Shaping Social Norms:</strong> Encouraging acceptance of protective behaviors (e.g., regular condom use).</li>
+  </ul>
+</div>
+
+
+<div
+  style={{
+    maxWidth: "90%",
+    margin: "auto",
+    padding: "50px",
+    background: "#f9f9f9",
+    borderRadius: "20px",
+    boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.1)",
+    fontFamily: "'Roboto', sans-serif",
+    lineHeight: "1.8",
+  }}
+>
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    💉 Immunization
+  </h2>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    Before the introduction of the pertussis vaccine in the 1940s, more than <strong>200,000 cases</strong> were diagnosed yearly in the United States, leading to <strong>5,000 to 10,000 deaths</strong> annually.  
+    Today, thanks to immunization, pertussis (whooping cough) claims only <strong>10 to 15 lives per year</strong>.
+  </p>
+
+  <h3
+    style={{
+      color: "#2c3e50",
+      fontSize: "1.5rem",
+      marginTop: "30px",
+      marginBottom: "15px",
+      fontWeight: "bold",
+    }}
+  >
+    🛡️ Active Immunity
+  </h3>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    Active immunity provides **long-term (sometimes lifelong) resistance** to a disease-causing organism.  
+    This immunity can be acquired **naturally** or **artificially**:
+  </p>
+
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🦠 <strong>Natural Immunity:</strong> Occurs when a person contracts a disease and develops antibodies.</li>
+    <li>💉 <strong>Artificial Immunity:</strong> Occurs through vaccination, where the body builds defenses without experiencing the disease.</li>
+  </ul>
+
+  <h3
+    style={{
+      color: "#2c3e50",
+      fontSize: "1.5rem",
+      marginTop: "30px",
+      marginBottom: "15px",
+      fontWeight: "bold",
+    }}
+  >
+    🏥 Vaccine-Preventable Diseases (VPD)
+  </h3>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    Many diseases can be prevented through immunization, significantly reducing morbidity and mortality. These include:
+  </p>
+
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🦠 Hepatitis B</li>
+    <li>🦠 <em>Haemophilus influenzae</em> type B (Hib)</li>
+    <li>🦠 Measles</li>
+    <li>🦠 Polio</li>
+    <li>🦠 Diphtheria</li>
+    <li>🦠 Pertussis (Whooping Cough)</li>
+    <li>🦠 Chickenpox (Varicella)</li>
+  </ul>
+</div>
+
+<div
+  style={{
+    maxWidth: "90%",
+    margin: "auto",
+    padding: "50px",
+    background: "#f4f6f9",
+    borderRadius: "20px",
+    boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.15)",
+    fontFamily: "'Poppins', sans-serif",
+    lineHeight: "1.8",
+  }}
+>
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2.2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🏥 Herd Immunity
+  </h2>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    Herd immunity is crucial in protecting **community health**. It refers to the **immunity level within a population** that helps prevent the spread of infectious diseases.
+  </p>
+
+  <div
+    style={{
+      background: "#e3f2fd",
+      padding: "20px",
+      borderRadius: "10px",
+      marginBottom: "20px",
+    }}
+  >
+    <p
+      style={{
+        color: "#1565c0",
+        fontSize: "1rem",
+        fontWeight: "bold",
+        textAlign: "justify",
+      }}
+    >
+      ✅ **Low Herd Immunity:** If few people are immune, disease spreads easily.  
+      ✅ **High Herd Immunity:** With more immunized individuals, the disease has fewer chances to spread.
+    </p>
+  </div>
+
+  <h3
+    style={{
+      color: "#2c3e50",
+      fontSize: "1.5rem",
+      marginTop: "30px",
+      marginBottom: "15px",
+      fontWeight: "bold",
+    }}
+  >
+    🚧 Barriers to Immunization Coverage
+  </h3>
+
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>⛪ **Religious Barriers**</li>
+    <li>💰 **Financial Constraints**</li>
+    <li>👨‍👩‍👧‍👦 **Social Stigma**</li>
+    <li>🌍 **Cultural Beliefs**</li>
+    <li>🧠 **Philosophical Objections**</li>
+    <li>🏥 **Healthcare Provider Limitations**</li>
+  </ul>
+
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2.2rem",
+      marginTop: "50px",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🛡️ Secondary Prevention
+  </h2>
+
+  <p
+    style={{
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+      textAlign: "justify",
+    }}
+  >
+    Secondary prevention aims to **detect and control** communicable diseases at an early stage. The two main approaches are:
+  </p>
+
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🔬 **Screening** – Identifying diseases in **asymptomatic individuals**.</li>
+    <li>📞 **Contact Investigation** – Notifying and locating individuals who may have been exposed.</li>
+  </ul>
+
+  <h3
+    style={{
+      color: "#2c3e50",
+      fontSize: "1.5rem",
+      marginTop: "30px",
+      marginBottom: "15px",
+      fontWeight: "bold",
+    }}
+  >
+    🩺 Criteria for Effective Screening
+  </h3>
+
+  <div
+    style={{
+      background: "#fff3e0",
+      padding: "20px",
+      borderRadius: "10px",
+      marginBottom: "20px",
+    }}
+  >
+    <p
+      style={{
+        color: "#e65100",
+        fontSize: "1rem",
+        fontWeight: "bold",
+        textAlign: "justify",
+      }}
+    >
+      🔍 **Validity & Reliability:** The test should be **accurate and consistent**.  
+      📊 **Predictive Value:** Determines whether screening is **justified**.  
+      📈 **Yield:** Measures the number of **positive cases detected** per number tested.
+    </p>
+  </div>
+</div>
+
+
+<div
+      style={{
+        maxWidth: "90%",
+        margin: "auto",
+        padding: "50px",
+        background: "#f4f6f9",
+        borderRadius: "20px",
+        boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.15)",
+        fontFamily: "'Poppins', sans-serif",
+        lineHeight: "1.8",
+      }}
+    >
+      <h2
+        style={{
+          color: "#2c3e50",
+          textAlign: "center",
+          fontSize: "2.2rem",
+          marginBottom: "30px",
+          textTransform: "uppercase",
+          fontWeight: "bold",
+        }}
+      >
+        📊 Epidemiologic Screening Criteria
+      </h2>
+
+      <ul
+        style={{
+          listStyleType: "none",
+          paddingLeft: "0px",
+          color: "#34495e",
+          fontSize: "1rem",
+          marginBottom: "20px",
+        }}
+      >
+        <li>✔️ Is the disease an **important public health problem**?</li>
+        <li>✔️ Is there a **valid and reliable test**?</li>
+        <li>✔️ Are **treatment facilities** available?</li>
+        <li>✔️ Does the disease have a **latent stage**?</li>
+        <li>✔️ Is the **screening test acceptable**?</li>
+      </ul>
+
+      <h2
+        style={{
+          color: "#2c3e50",
+          textAlign: "center",
+          fontSize: "2.2rem",
+          marginTop: "50px",
+          marginBottom: "30px",
+          textTransform: "uppercase",
+          fontWeight: "bold",
+        }}
+      >
+        🔍 Isolation vs. Quarantine
+      </h2>
+
+      <div
+        style={{
+          display: "grid",
+          gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))",
+          gap: "20px",
+        }}
+      >
+        <div
+          style={{
+            background: "#e3f2fd",
+            padding: "20px",
+            borderRadius: "10px",
+            textAlign: "center",
+          }}
+        >
+          <h3 style={{ color: "#1565c0", fontSize: "1.5rem", fontWeight: "bold" }}>
+            🏥 Isolation
+          </h3>
+          <p style={{ color: "#34495e", fontSize: "1rem" }}>
+            🔹 **Used for infected individuals.**  
+            🔹 Keeps them away from **healthy people**.  
+            🔹 Prevents **disease transmission** during communicability.
+          </p>
+        </div>
+
+        <div
+          style={{
+            background: "#ffebee",
+            padding: "20px",
+            borderRadius: "10px",
+            textAlign: "center",
+          }}
+        >
+          <h3 style={{ color: "#c62828", fontSize: "1.5rem", fontWeight: "bold" }}>
+            🚧 Quarantine
+          </h3>
+          <p style={{ color: "#34495e", fontSize: "1rem" }}>
+            🔹 **Used for healthy individuals exposed to disease.**  
+            🔹 Restricts movement until **incubation period** ends.  
+            🔹 Ensures they don’t **spread infection unknowingly**.
+          </p>
+        </div>
+      </div>
+
+      <h3
+        style={{
+          color: "#2c3e50",
+          fontSize: "1.5rem",
+          marginTop: "30px",
+          marginBottom: "15px",
+          fontWeight: "bold",
+        }}
+      >
+        🩺 Contact Investigation & Case-Finding
+      </h3>
+
+      <p
+        style={{
+          color: "#34495e",
+          fontSize: "1rem",
+          marginBottom: "20px",
+          textAlign: "justify",
+        }}
+      >
+        Community health efforts **identify and notify** individuals who may have been exposed to communicable diseases like TB and STDs.
+      </p>
+
+      <h3
+        style={{
+          color: "#2c3e50",
+          fontSize: "1.5rem",
+          marginTop: "30px",
+          marginBottom: "15px",
+          fontWeight: "bold",
+        }}
+      >
+        ✅ Screening Test Criteria
+      </h3>
+
+      <div
+        style={{
+          background: "#fff3e0",
+          padding: "20px",
+          borderRadius: "10px",
+          marginBottom: "20px",
+        }}
+      >
+        <p
+          style={{
+            color: "#e65100",
+            fontSize: "1rem",
+            fontWeight: "bold",
+            textAlign: "justify",
+          }}
+        >
+          🔍 **Validity & Reliability:** The test should be **accurate and consistent**.  
+          📊 **Predictive Value:** Determines whether screening is **justified**.  
+          📈 **Yield:** Measures the number of **positive cases detected** per number tested.
+        </p>
+      </div>
+    </div>
+
+    <div
+      style={{
+        maxWidth: "90%",
+        margin: "auto",
+        padding: "50px",
+        background: "#f4f6f9",
+        borderRadius: "20px",
+        boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.15)",
+        fontFamily: "'Poppins', sans-serif",
+        lineHeight: "1.8",
+      }}
+    >
+      <h2
+        style={{
+          color: "#2c3e50",
+          textAlign: "center",
+          fontSize: "2.2rem",
+          marginBottom: "30px",
+          textTransform: "uppercase",
+          fontWeight: "bold",
+        }}
+      >
+        🍽️ Foodborne Illnesses
+      </h2>
+
+      <p
+        style={{
+          color: "#34495e",
+          fontSize: "1rem",
+          marginBottom: "20px",
+          textAlign: "justify",
+        }}
+      >
+        Foodborne diseases are transmitted through **contaminated food, water, or the fecal-oral route**.
+      </p>
+
+      <h3
+        style={{
+          color: "#2c3e50",
+          fontSize: "1.5rem",
+          marginTop: "30px",
+          marginBottom: "15px",
+          fontWeight: "bold",
+        }}
+      >
+        🦠 Common Bacterial Food Poisoning & Sources
+      </h3>
+
+      <div
+        style={{
+          display: "grid",
+          gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))",
+          gap: "20px",
+        }}
+      >
+        <div
+          style={{
+            background: "#e3f2fd",
+            padding: "20px",
+            borderRadius: "10px",
+          }}
+        >
+          <h4 style={{ color: "#1565c0", fontWeight: "bold" }}>Campylobacteriosis</h4>
+          <p style={{ color: "#34495e" }}>🥛 Milk, 🍗 Chicken, 🐾 Pet Animals, 🐄 Livestock</p>
+        </div>
+
+        <div
+          style={{
+            background: "#ffebee",
+            padding: "20px",
+            borderRadius: "10px",
+          }}
+        >
+          <h4 style={{ color: "#c62828", fontWeight: "bold" }}>Salmonellosis</h4>
+          <p style={{ color: "#34495e" }}>🥚 Eggs, 🍖 Meat, 🍗 Poultry, 🍎 Fruits, 🦎 Reptile Pets</p>
+        </div>
+
+        <div
+          style={{
+            background: "#e8f5e9",
+            padding: "20px",
+            borderRadius: "10px",
+          }}
+        >
+          <h4 style={{ color: "#2e7d32", fontWeight: "bold" }}>E. Coli</h4>
+          <p style={{ color: "#34495e" }}>🥗 Salads, 🍔 Hamburgers, 🍕 Salami, 💧 Water</p>
+        </div>
+
+        <div
+          style={{
+            background: "#fff3e0",
+            padding: "20px",
+            borderRadius: "10px",
+          }}
+        >
+          <h4 style={{ color: "#e65100", fontWeight: "bold" }}>Shigellosis</h4>
+          <p style={{ color: "#34495e" }}>🥛 Milk, 🥗 Salad</p>
+        </div>
+      </div>
+
+      <h3
+        style={{
+          color: "#2c3e50",
+          fontSize: "1.5rem",
+          marginTop: "30px",
+          marginBottom: "15px",
+          fontWeight: "bold",
+        }}
+      >
+        🛡️ Prevention
+      </h3>
+
+      <ul
+        style={{
+          listStyleType: "none",
+          paddingLeft: "0px",
+          color: "#34495e",
+          fontSize: "1rem",
+          marginBottom: "20px",
+        }}
+      >
+        <li>🧼 Wash hands for **at least 20 seconds** with warm, soapy water.</li>
+        <li>❄️ **Refrigerate** prepared food promptly.</li>
+        <li>🔥 **Thoroughly cook** all food derived from animals.</li>
+        <li>🍽️ Maintain a **sanitary kitchen**.</li>
+        <li>🚫 **Exclude individuals with diarrhea** from food handling.</li>
+      </ul>
+
+      <h3
+        style={{
+          color: "#2c3e50",
+          fontSize: "1.5rem",
+          marginTop: "30px",
+          marginBottom: "15px",
+          fontWeight: "bold",
+        }}
+      >
+        💊 Treatment
+      </h3>
+
+      <p
+        style={{
+          color: "#34495e",
+          fontSize: "1rem",
+          marginBottom: "20px",
+          textAlign: "justify",
+        }}
+      >
+        There is **no vaccine** for preventing gastrointestinal (GI) illness.  
+        **HIV patients** may require **lifelong therapy** to prevent Salmonella septicemia.  
+        Most people **recover on their own** without medical intervention.  
+        **Antibiotics and anti-diarrhea drugs** are generally **not recommended** for cases with intestinal infections.
+      </p>
+    </div>
+
+    <div
+      style={{
+        maxWidth: "90%",
+        margin: "auto",
+        padding: "50px",
+        background: "#f4f6f9",
+        borderRadius: "20px",
+        boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.15)",
+        fontFamily: "'Poppins', sans-serif",
+        lineHeight: "1.8",
+      }}
+    >
+      <h2
+        style={{
+          color: "#2c3e50",
+          textAlign: "center",
+          fontSize: "2.2rem",
+          marginBottom: "30px",
+          textTransform: "uppercase",
+          fontWeight: "bold",
+        }}
+      >
+        🦠 Hepatitis A
+      </h2>
+
+      <h3
+        style={{
+          color: "#2c3e50",
+          fontSize: "1.5rem",
+          marginTop: "30px",
+          marginBottom: "15px",
+          fontWeight: "bold",
+        }}
+      >
+        🌍 Transmission
+      </h3>
+      <ul
+        style={{
+          listStyleType: "none",
+          paddingLeft: "0px",
+          color: "#34495e",
+          fontSize: "1rem",
+          marginBottom: "20px",
+        }}
+      >
+        <li>🚶‍♂️ **Person to Person:** Fecal/oral contact</li>
+        <li>🍎 **Contaminated Food/Water:** Fruits, vegetables, or uncooked food handled improperly.</li>
+        <li>💧 **Contaminated Water/Ice:** Drinking water or ice that has been infected.</li>
+      </ul>
+
+      <h3
+        style={{
+          color: "#2c3e50",
+          fontSize: "1.5rem",
+          marginTop: "30px",
+          marginBottom: "15px",
+          fontWeight: "bold",
+        }}
+      >
+        🩺 Symptoms
+      </h3>
+      <ul
+        style={{
+          listStyleType: "none",
+          paddingLeft: "0px",
+          color: "#34495e",
+          fontSize: "1rem",
+          marginBottom: "20px",
+        }}
+      >
+        <li>🧒 **Children:** Usually have no symptoms.</li>
+        <li>👩‍⚕️ **Adults/Children:** May experience **jaundice**, **fatigue**, **nausea**, **vomiting**, **abdominal pain**, **dark urine**, **light stools**, and **fever**.</li>
+      </ul>
+
+      <h3
+        style={{
+          color: "#2c3e50",
+          fontSize: "1.5rem",
+          marginTop: "30px",
+          marginBottom: "15px",
+          fontWeight: "bold",
+        }}
+      >
+        💊 Treatment
+      </h3>
+      <ul
+        style={{
+          listStyleType: "none",
+          paddingLeft: "0px",
+          color: "#34495e",
+          fontSize: "1rem",
+          marginBottom: "20px",
+        }}
+      >
+        <li>❌ No specific treatment.</li>
+        <li>🕒 The infection clears up in **weeks to months**, usually without serious aftereffects.</li>
+        <li>✅ Once recovered, an individual is **immune** and will never get HAV again.</li>
+      </ul>
+
+      <h3
+        style={{
+          color: "#2c3e50",
+          fontSize: "1.5rem",
+          marginTop: "30px",
+          marginBottom: "15px",
+          fontWeight: "bold",
+        }}
+      >
+        🛡️ Prevention
+      </h3>
+      <ul
+        style={{
+          listStyleType: "none",
+          paddingLeft: "0px",
+          color: "#34495e",
+          fontSize: "1rem",
+          marginBottom: "20px",
+        }}
+      >
+        <li>🚫 Exclude the patient from **sensitive occupations** or **childcare** until 10 days after symptoms begin.</li>
+        <li>💉 **Immunoglobulin** can provide **temporary immunity** if given prior to exposure or within 2 weeks after contact.</li>
+      </ul>
+    </div>
+
+<div
+style={{
+  maxWidth: "90%",
+  margin: "auto",
+  padding: "50px",
+  background: "#f4f6f9",
+  borderRadius: "20px",
+  boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.15)",
+  fontFamily: "'Poppins', sans-serif",
+  lineHeight: "1.8",
+}}
+>
+<h2
+  style={{
+    color: "#2c3e50",
+    textAlign: "center",
+    fontSize: "2.2rem",
+    marginBottom: "30px",
+    textTransform: "uppercase",
+    fontWeight: "bold",
+  }}
+>
+  🧠 Meningitis: Inflammation of the Meninges
+</h2>
+
+<p
+  style={{
+    color: "#34495e",
+    fontSize: "1rem",
+    marginBottom: "20px",
+    textAlign: "justify",
+  }}
+>
+  Meningitis refers to illnesses that involve the inflammation of the meninges, the lining that covers the brain.
+</p>
+
+<h3
+  style={{
+    color: "#2c3e50",
+    fontSize: "1.5rem",
+    marginTop: "30px",
+    marginBottom: "15px",
+    fontWeight: "bold",
+  }}
+>
+  🌍 Infectious Agents
+</h3>
+
+<p
+  style={{
+    color: "#34495e",
+    fontSize: "1rem",
+    marginBottom: "20px",
+    textAlign: "justify",
+  }}
+>
+  Meningitis can be caused by various infectious agents, including bacteria, viruses, fungi, and other unspecified organisms transmitted from the environment or people.
+</p>
+
+<h3
+  style={{
+    color: "#2c3e50",
+    fontSize: "1.5rem",
+    marginTop: "30px",
+    marginBottom: "15px",
+    fontWeight: "bold",
+  }}
+>
+  🦠 Viral Meningitis
+</h3>
+
+<div
+  style={{
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))",
+    gap: "20px",
+  }}
+>
+  <div
+    style={{
+      background: "#e3f2fd",
+      padding: "20px",
+      borderRadius: "10px",
+    }}
+  >
+    <h4 style={{ color: "#1565c0", fontWeight: "bold" }}>Transmission</h4>
+    <p style={{ color: "#34495e" }}>
+      Person-to-person, respiratory secretions, airborne, fomites, fecal/oral contamination.
+    </p>
+  </div>
+
+  <div
+    style={{
+      background: "#ffebee",
+      padding: "20px",
+      borderRadius: "10px",
+    }}
+  >
+    <h4 style={{ color: "#c62828", fontWeight: "bold" }}>Symptoms</h4>
+    <p style={{ color: "#34495e" }}>
+      Fever, headache, stiff neck, rash (similar in appearance to hives), intestinal symptoms.
+    </p>
+  </div>
+
+  <div
+    style={{
+      background: "#e8f5e9",
+      padding: "20px",
+      borderRadius: "10px",
+    }}
+  >
+    <h4 style={{ color: "#2e7d32", fontWeight: "bold" }}>Treatment</h4>
+    <p style={{ color: "#34495e" }}>
+      There is no specific medicine or antibiotics for viral meningitis. In most cases, the person will fully recover with no lasting ill effects.
+    </p>
+  </div>
+</div>
+
+<h3
+  style={{
+    color: "#2c3e50",
+    fontSize: "1.5rem",
+    marginTop: "30px",
+    marginBottom: "15px",
+    fontWeight: "bold",
+  }}
+>
+  🦠 Bacterial Meningitis
+</h3>
+
+<p
+  style={{
+    color: "#34495e",
+    fontSize: "1rem",
+    marginBottom: "20px",
+    textAlign: "justify",
+  }}
+>
+  Bacterial meningitis is caused by various groups of bacteria, including Hib (Haemophilus influenzae), Streptococcus pneumoniae, and Neisseria meningitidis.
+  Bacteria enter through the nose and throat and infect the bloodstream before reaching the brain.
+</p>
+
+<h4
+  style={{
+    color: "#2c3e50",
+    fontSize: "1.5rem",
+    marginTop: "30px",
+    marginBottom: "15px",
+    fontWeight: "bold",
+  }}
+>
+  Symptoms
+</h4>
+
+<ul
+  style={{
+    listStyleType: "none",
+    paddingLeft: "0px",
+    color: "#34495e",
+    fontSize: "1rem",
+    marginBottom: "20px",
+  }}
+>
+  <li>Sudden onset of high fever</li>
+  <li>Intense headache</li>
+  <li>Nausea/vomiting</li>
+  <li>Stiff neck</li>
+  <li>Body rash</li>
+</ul>
+
+<h4
+  style={{
+    color: "#2c3e50",
+    fontSize: "1.5rem",
+    marginTop: "30px",
+    marginBottom: "15px",
+    fontWeight: "bold",
+  }}
+>
+  Transmission
+</h4>
+
+<p
+  style={{
+    color: "#34495e",
+    fontSize: "1rem",
+    marginBottom: "20px",
+    textAlign: "justify",
+  }}
+>
+  Spread through direct contact with mucus or saliva from the nose and throat of an infected individual, close contact, exchange of saliva by kissing, or sharing utensils.
+</p>
+
+<h3
+  style={{
+    color: "#2c3e50",
+    fontSize: "1.5rem",
+    marginTop: "30px",
+    marginBottom: "15px",
+    fontWeight: "bold",
+  }}
+>
+  🧴 Meningococcemia
+</h3>
+
+<p
+  style={{
+    color: "#34495e",
+    fontSize: "1rem",
+    marginBottom: "20px",
+    textAlign: "justify",
+  }}
+>
+  Neisseria meningitidis can infect the bloodstream, leading to meningococcemia, an acute bacterial infection that affects the whole body but doesn't always cause meningitis.
+</p>
+
+<h4
+  style={{
+    color: "#2c3e50",
+    fontSize: "1.5rem",
+    marginTop: "30px",
+    marginBottom: "15px",
+    fontWeight: "bold",
+  }}
+>
+  Symptoms
+</h4>
+
+<ul
+  style={{
+    listStyleType: "none",
+    paddingLeft: "0px",
+    color: "#34495e",
+    fontSize: "1rem",
+    marginBottom: "20px",
+  }}
+>
+  <li>Sudden onset of fever, vomiting, weakness, irritability</li>
+  <li>Usually a body rash within 24 hours</li>
+  <li>Rapid deterioration of health</li>
+</ul>
+
+<h4
+  style={{
+    color: "#2c3e50",
+    fontSize: "1.5rem",
+    marginTop: "30px",
+    marginBottom: "15px",
+    fontWeight: "bold",
+  }}
+>
+  Transmission
+</h4>
+
+<p
+  style={{
+    color: "#34495e",
+    fontSize: "1rem",
+    marginBottom: "20px",
+    textAlign: "justify",
+  }}
+>
+  Spread by direct contact with mucus or saliva from an infected individual, close contact, exchange of saliva through kissing, or mouth-to-mouth resuscitation.
+</p>
+
+<h3
+  style={{
+    color: "#2c3e50",
+    fontSize: "1.5rem",
+    marginTop: "30px",
+    marginBottom: "15px",
+    fontWeight: "bold",
+  }}
+>
+  💊 Treatment
+</h3>
+
+<p
+  style={{
+    color: "#34495e",
+    fontSize: "1rem",
+    marginBottom: "20px",
+    textAlign: "justify",
+  }}
+>
+  Early medical attention is essential. Antibiotics are effective in eliminating the bacteria from the nose and throat. Prophylactic treatment with rifampin or ciprofloxacin is effective within 7 days of exposure.
+</p>
+
+<h3
+  style={{
+    color: "#2c3e50",
+    fontSize: "1.5rem",
+    marginTop: "30px",
+    marginBottom: "15px",
+    fontWeight: "bold",
+  }}
+>
+  🧼 Prevention
+</h3>
+
+<ul
+  style={{
+    listStyleType: "none",
+    paddingLeft: "0px",
+    color: "#34495e",
+    fontSize: "1rem",
+    marginBottom: "20px",
+  }}
+>
+  <li>Good hand-washing habits</li>
+  <li>Vaccination and education</li>
+</ul>
+</div>
+
+<div 
+style={{
+  maxWidth: "90%",
+  margin: "auto",
+  padding: "50px",
+  background: "#f4f6f9",
+  borderRadius: "20px",
+  boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.15)",
+  fontFamily: "'Poppins', sans-serif",
+  lineHeight: "1.8",
+}}>
+<h2
+  style={{
+    color: "#2c3e50",
+    textAlign: "center",
+    fontSize: "2.2rem",
+    marginBottom: "30px",
+    textTransform: "uppercase",
+    fontWeight: "bold",
+  }}
+>
+  💉 Vaccine Preventable Diseases
+</h2>
+
+<h3 style={{ color: "#2c3e50", fontSize: "1.5rem", marginTop: "30px", fontWeight: "bold" }}>🐔 Varicella (Chicken Pox)</h3>
+<p style={{ color: "#34495e" }}>Occurs in winter and spring seasons.</p>
+<p style={{ color: "#34495e" }}>🦠 <b>Clinical Manifestation:</b> Viral infection, fever, rash.</p>
+<p style={{ color: "#34495e" }}>🔄 <b>Transmission:</b> Person-to-person direct contact, fomite transmission.</p>
+
+<h3 style={{ color: "#2c3e50", fontSize: "1.5rem", marginTop: "30px", fontWeight: "bold" }}>🤒 Measles</h3>
+<p style={{ color: "#34495e" }}>👥 <b>Source:</b> Humans.</p>
+<p style={{ color: "#34495e" }}>💨 <b>Transmission:</b> Droplet spread or direct contact with nasal or throat secretions. Virus remains airborne for up to 2 hours.</p>
+<p style={{ color: "#34495e" }}>⏳ <b>Incubation Period:</b> 12-17 days (usually 14 days before rash appears).</p>
+<p style={{ color: "#34495e" }}>🤕 <b>Symptoms:</b> Fever, nasal congestion, conjunctivitis, cough.</p>
+
+<h3 style={{ color: "#2c3e50", fontSize: "1.5rem", marginTop: "30px", fontWeight: "bold" }}>💨 Mumps</h3>
+<p style={{ color: "#34495e" }}>💧 <b>Transmission:</b> Direct contact with saliva or droplets.</p>
+<p style={{ color: "#34495e" }}>⏳ <b>Incubation:</b> 16-18 days (range 12-25 days).</p>
+<p style={{ color: "#34495e" }}>🤕 <b>Symptoms:</b> Fever, headache, parotitis (swelling of salivary glands).</p>
+
+<h3 style={{ color: "#2c3e50", fontSize: "1.5rem", marginTop: "30px", fontWeight: "bold" }}>🌸 Rubella</h3>
+<p style={{ color: "#34495e" }}>💧 <b>Transmission:</b> Droplets from respiratory secretions.</p>
+<p style={{ color: "#34495e" }}>⏳ <b>Incubation:</b> 12-23 days (usually 16-18 days).</p>
+<p style={{ color: "#34495e" }}>🤕 <b>Symptoms:</b> Rash, fever, joint pain, lymph node swelling.</p>
+
+<h3 style={{ color: "#2c3e50", fontSize: "1.5rem", marginTop: "30px", fontWeight: "bold" }}>😷 Pertussis</h3>
+<p style={{ color: "#34495e" }}>🔄 <b>Transmission:</b> Respiratory droplets.</p>
+<p style={{ color: "#34495e" }}>⏳ <b>Incubation:</b> 5-10 days (up to 24 days).</p>
+<p style={{ color: "#34495e" }}>🧒 <b>Infants:</b> Severe illness, blue skin, vomiting.</p>
+<p style={{ color: "#34495e" }}>👦 <b>Adolescents:</b> Mild illness, but can spread infection.</p>
+
+<h3 style={{ color: "#2c3e50", fontSize: "1.5rem", marginTop: "30px", fontWeight: "bold" }}>🩸 Bloodborne Pathogens</h3>
+<p style={{ color: "#34495e" }}>⚠️ <b>Transmission:</b> Blood, bodily fluids, contaminated sharps.</p>
+
+<h3 style={{ color: "#2c3e50", fontSize: "1.5rem", marginTop: "30px", fontWeight: "bold" }}>🦠 Hepatitis B (HBV)</h3>
+<p style={{ color: "#34495e" }}>🦠 <b>Highly contagious:</b> 100x more than HIV.</p>
+<p style={{ color: "#34495e" }}>💉 <b>Vaccine available:</b> 3-4 shots over 6 months.</p>
+
+<h3 style={{ color: "#2c3e50", fontSize: "1.5rem", marginTop: "30px", fontWeight: "bold" }}>🦠 Hepatitis C (HCV)</h3>
+<p style={{ color: "#34495e" }}>⏳ <b>Chronic infection:</b> Can take 10-40 years to develop.</p>
+<p style={{ color: "#34495e" }}>⚠️ <b>Transmission:</b> Blood contact, sexual contact (low risk).</p>
+<p style={{ color: "#34495e" }}>🚫 <b>No vaccine available.</b></p>
+
+<h3 style={{ color: "#2c3e50", fontSize: "1.5rem", marginTop: "30px", fontWeight: "bold" }}>🛡️ Universal Precautions</h3>
+<ul style={{ color: "#34495e", fontSize: "1rem", listStyleType: "none" }}>
+  <li>🧤 Use PPE (gloves, masks, aprons).</li>
+  <li>🩸 Treat all bodily fluids as contaminated.</li>
+  <li>🧼 Wash hands for at least 20 seconds.</li>
+  <li>📢 Report communicable diseases.</li>
+  <li>🏥 Educate staff and the public on immunization.</li>
+</ul>
+</div>
+
+<div>
+    ⚡ What is needed in an emergency?
+    <ul>
+        <li>⚖️ <strong>Fundamental Principles of Control of Communicable Diseases:</strong> Rapid Assessment, Prevention, Surveillance, Outbreak Control, Disease Management.</li>
+        <li>⚠ Outbreak Control</li>
+        <li>💉 Prevention and control of specific communicable diseases.</li>
+    </ul>
+    
+    ⚕️ <strong>Communicable Diseases</strong>
+    <p>Communicable diseases are a major cause of morbidity and mortality in emergencies, particularly in complex emergencies.</p>
+    <ul>
+        <li>🩸 Main causes: Diarrheal diseases, acute respiratory infections, measles, and malaria (where endemic).</li>
+        <li>⚖️ Other diseases: Meningococcal disease, tuberculosis, relapsing fever, typhus.</li>
+        <li>🏡 Additional causes: Malnutrition and trauma.</li>
+    </ul>
+    
+    ⚡ <strong>What is needed during an emergency?</strong>
+    <ul>
+        <li>🏡 Shelter</li>
+        <li>🚰 Water & Sanitation</li>
+        <li>🍲 Food</li>
+        <li>⚕️ Basic Health Care</li>
+    </ul>
+    <p>A systematic approach to controlling communicable diseases is a key component of humanitarian response.</p>
+    
+    ⚖️ <strong>Fundamental Principles of Control of Communicable Diseases</strong>
+    <ul>
+        <li>⏳ Rapid Assessment</li>
+        <li>🛡️ Prevention</li>
+        <li>🔬 Surveillance</li>
+        <li>🏢 Outbreak Control</li>
+        <li>⚕️ Disease Management</li>
+    </ul>
+    
+    🔎 <strong>Rapid Health Assessment</strong>
+    <ul>
+        <li>🔍 Assess the extent of the emergency.</li>
+        <li>⚖️ Define the type and size of interventions.</li>
+        <li>📖 Plan implementation of activities.</li>
+        <li>🌐 Provide information to mobilize resources.</li>
+    </ul>
+    
+    🛡️ <strong>Prevention</strong>
+    <ul>
+        <li>🏢 Good site planning</li>
+        <li>⚕️ Basic clinical services</li>
+        <li>🏡 Appropriate shelter</li>
+        <li>🚰 Clean water supply</li>
+        <li>🚷 Sanitation</li>
+        <li>💉 Mass vaccination</li>
+        <li>🍔 Regular food supply</li>
+        <li>🪠 Vector control</li>
+    </ul>
+    
+    🔬 <strong>Surveillance</strong>
+    <p>Ongoing systematic collection, analysis, and interpretation of data to plan, implement, and evaluate public health interventions.</p>
+    <p>Surveillance systems should be simple, flexible, and situation-specific.</p>
+    
+    ⚠ <strong>Outbreak Control</strong>
+    <p>⛔ An outbreak is an unexpected rise in disease cases.</p>
+    <p>⚖️ Outbreaks in emergencies can spread rapidly, leading to high morbidity and mortality rates.</p>
+    <p>⚡ The goal is early detection and control.</p>
+</div>
+
+<div style={{
+  maxWidth: "90%",
+  margin: "auto",
+  padding: "50px",
+  background: "#f4f6f9",
+  borderRadius: "20px",
+  boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.15)",
+  fontFamily: "'Poppins', sans-serif",
+  lineHeight: "1.8",
+}}>
+    ✨ <strong>Major Diseases with Epidemic Potential in Emergency Situations</strong>
+    <ul>
+        <li>💉 Cholera</li>
+        <li>💉 Meningococcal Disease</li>
+        <li>💉 Measles</li>
+        <li>💉 Shigellosis</li>
+    </ul>
+    
+    ✨ <strong>Additional Diseases to Consider in Certain Areas</strong>
+    <ul>
+        <li>🏰 Malaria</li>
+        <li>👨‍🌾 Louse-borne Typhus</li>
+        <li>🌿 Yellow Fever</li>
+        <li>🦈 Trypanosomiasis</li>
+        <li>🦂 Leishmaniasis</li>
+        <li>🔒 Viral Hemorrhagic Fever</li>
+        <li>👨‍🏭 Relapsing Fever</li>
+        <li>🏥 Typhoid</li>
+        <li>🤝 Hepatitis A & E</li>
+    </ul>
+    
+    ✨ <strong>Steps in Managing a Communicable Disease Outbreak</strong>
+    <ol>
+        <li>⚡ <strong>Preparation</strong></li>
+        <li>🔍 <strong>Detection</strong></li>
+        <li>⚖️ <strong>Response</strong></li>
+        <li>📊 <strong>Evaluation</strong></li>
+    </ol>
+    
+    ✨ <strong>Preparation for the Outbreak</strong>
+    <ul>
+        <li>💬 Health coordination meetings</li>
+        <li>📊 Strong surveillance system</li>
+        <li>🔖 Outbreak response plan for each disease</li>
+        <li>🏥 Stocks of IV fluids, antibiotics, and vaccines</li>
+        <li>🏰 Plans for isolation wards</li>
+        <li>👩‍🔬 Laboratory support</li>
+    </ul>
+    
+    ✨ <strong>Detection of Outbreak</strong>
+    <ul>
+        <li>🔍 Surveillance system with early warning for epidemic-prone diseases</li>
+        <li>👩‍👨 Inform Ministry of Health & WHO for specific disease outbreaks</li>
+        <li>🤢 Collect specimens (stool, CSF, serum) for lab confirmation</li>
+        <li>📈 Include cases in the weekly report</li>
+    </ul>
+    
+    ✨ <strong>Response to the Outbreak</strong>
+    <ul>
+        <li>🔒 Confirm the outbreak</li>
+        <li>⚖️ Activate the outbreak control team</li>
+        <li>🔬 Investigate the outbreak</li>
+        <li>🏰 Control the outbreak</li>
+    </ul>
+    
+    ✨ <strong>Evaluation</strong>
+    <ul>
+        <li>📊 Assess appropriateness & effectiveness of containment measures</li>
+        <li>📝 Assess timeliness of detection & response</li>
+        <li>📈 Adapt public health policy if needed</li>
+        <li>💬 Write & disseminate an outbreak report</li>
+    </ul>
+</div>
+
+<div
+  style={{
+    maxWidth: "90%",
+    margin: "auto",
+    padding: "50px",
+    background: "#f4f6f9",
+    borderRadius: "20px",
+    boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.15)",
+    fontFamily: "'Poppins', sans-serif",
+    lineHeight: "1.8",
+  }}
+>
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2.2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🩺 Prevention and Control of Diseases
+  </h2>
+
+  <div
+    style={{
+      display: "grid",
+      gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))",
+      gap: "20px",
+    }}
+  >
+    
+    <div
+      style={{
+        background: "#e3f2fd",
+        padding: "20px",
+        borderRadius: "10px",
+        boxShadow: "0 2px 10px rgba(0, 0, 0, 0.1)",
+      }}
+    >
+      <h3
+        style={{
+          color: "#1565c0",
+          fontWeight: "bold",
+          fontSize: "1.5rem",
+          marginBottom: "15px",
+        }}
+      >
+        💨 Prevention and Control of Acute Respiratory Infections
+      </h3>
+      <ul style={{ color: "#34495e", fontSize: "1rem", listStyleType: "none", paddingLeft: "0px" }}>
+        <li>Early recognition and treatment</li>
+        <li>All children with cough carefully assessed</li>
+        <li>Assess signs of malnutrition</li>
+        <li>Refer severely malnourished to hospital</li>
+        <li>Manage pneumonia with antibiotics</li>
+        <li>Follow national treatment protocols</li>
+        <li>Supportive measures</li>
+        <li>Vaccination against measles, diphtheria, and whooping cough reduces ARI impact</li>
+      </ul>
+    </div>
+
+   
+    <div
+      style={{
+        background: "#ffebee",
+        padding: "20px",
+        borderRadius: "10px",
+        boxShadow: "0 2px 10px rgba(0, 0, 0, 0.1)",
+      }}
+    >
+      <h3
+        style={{
+          color: "#c62828",
+          fontWeight: "bold",
+          fontSize: "1.5rem",
+          marginBottom: "15px",
+        }}
+      >
+        💧 Prevention and Control of Cholera
+      </h3>
+      <ul style={{ color: "#34495e", fontSize: "1rem", listStyleType: "none", paddingLeft: "0px" }}>
+        <li>Prompt diagnosis and management</li>
+        <li>Establish treatment centers with barrier nursing</li>
+        <li>Fecal material and vomit properly disinfected and disposed</li>
+        <li>Health Education on hygiene, safe water, safe food, and hand washing</li>
+        <li>Funerals to be held quickly and near the place of death</li>
+        <li>Meticulous hand washing for those who handle the body</li>
+        <li>Promote hand washing with soap when food is handled</li>
+      </ul>
+    </div>
+
+   
+    <div
+      style={{
+        background: "#e8f5e9",
+        padding: "20px",
+        borderRadius: "10px",
+        boxShadow: "0 2px 10px rgba(0, 0, 0, 0.1)",
+      }}
+    >
+      <h3
+        style={{
+          color: "#2e7d32",
+          fontWeight: "bold",
+          fontSize: "1.5rem",
+          marginBottom: "15px",
+        }}
+      >
+        💧 Prevention and Control of Diarrhoeal Diseases
+      </h3>
+      <ul style={{ color: "#34495e", fontSize: "1rem", listStyleType: "none", paddingLeft: "0px" }}>
+        <li>Provision of safe water supply</li>
+        <li>Supply of adequate quantities of reasonably clean water</li>
+        <li>More important than microbiologically clean water</li>
+      </ul>
+    </div>
+
+    
+    <div
+      style={{
+        background: "#f3e5f5",
+        padding: "20px",
+        borderRadius: "10px",
+        boxShadow: "0 2px 10px rgba(0, 0, 0, 0.1)",
+      }}
+    >
+      <h3
+        style={{
+          color: "#8e24aa",
+          fontWeight: "bold",
+          fontSize: "1.5rem",
+          marginBottom: "15px",
+        }}
+      >
+        👁️ Prevention and Control of Conjunctivitis
+      </h3>
+      <ul style={{ color: "#34495e", fontSize: "1rem", listStyleType: "none", paddingLeft: "0px" }}>
+        <li>Provide clean water for personal hygiene and hand washing</li>
+        <li>Control fly populations with vector measures</li>
+        <li>Disinfect contaminated articles</li>
+        <li>Vigorous hand washing to avoid cross-contamination in health facilities</li>
+      </ul>
+    </div>
+
+    
+    <div
+      style={{
+        background: "#e1f5fe",
+        padding: "20px",
+        borderRadius: "10px",
+        boxShadow: "0 2px 10px rgba(0, 0, 0, 0.1)",
+      }}
+    >
+      <h3
+        style={{
+          color: "#039be5",
+          fontWeight: "bold",
+          fontSize: "1.5rem",
+          marginBottom: "15px",
+        }}
+      >
+        🦟 Prevention and Control of Dengue
+      </h3>
+      <ul style={{ color: "#34495e", fontSize: "1rem", listStyleType: "none", paddingLeft: "0px" }}>
+        <li>Eliminate habitats of Aedes mosquitoes</li>
+        <li>Personal protection against mosquito bites during daytime</li>
+        <li>Surveys to determine vector density and larval habitats</li>
+        <li>Use larvicide in outbreak areas</li>
+        <li>Insecticides to reduce vector population</li>
+        <li>Social mobilization to eliminate breeding sites</li>
+      </ul>
+    </div>
+
+  
+    <div
+      style={{
+        background: "#fff3e0",
+        padding: "20px",
+        borderRadius: "10px",
+        boxShadow: "0 2px 10px rgba(0, 0, 0, 0.1)",
+      }}
+    >
+      <h3
+        style={{
+          color: "#fb8c00",
+          fontWeight: "bold",
+          fontSize: "1.5rem",
+          marginBottom: "15px",
+        }}
+      >
+        🦠 Prevention and Control of Viral Hepatitis
+      </h3>
+      <ul style={{ color: "#34495e", fontSize: "1rem", listStyleType: "none", paddingLeft: "0px" }}>
+        <li>Enforce water and food sanitation</li>
+        <li>Screen all blood products for Hepatitis B and C (and HIV)</li>
+        <li>Vaccination recommended for target population groups for Hepatitis A</li>
+        <li>Vaccinate health workers not immune to Hepatitis A and B</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div
+  style={{
+    maxWidth: "90%",
+    margin: "auto",
+    padding: "50px",
+    background: "#f4f6f9",
+    borderRadius: "20px",
+    boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.15)",
+    fontFamily: "'Poppins', sans-serif",
+    lineHeight: "1.8",
+  }}
+>
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2.2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🌍 Prevention and Control of HIV/AIDS
+  </h2>
+  
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🔴 Reduce sexual and mother to child transmission.</li>
+    <li>🩸 Ensure blood safety.</li>
+    <li>🧑‍⚕️ Universal precautions to be used.</li>
+    <li>👩‍👧‍👦 Physical protection especially of women and children.</li>
+    <li>💼 Protect health care workers.</li>
+    <li>🧪 Counseling and voluntary testing programs.</li>
+    <li>💉 Vaccination of asymptomatic HIV infected children with EPI vaccines.</li>
+    <li>❌ Symptomatic HIV infected children should not be given BCG or yellow fever vaccine.</li>
+  </ul>
+
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2.2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🧠 Prevention and Control of Japanese Encephalitis
+  </h2>
+  
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🦟 Personal protection against mosquito bites.</li>
+    <li>🏠 Screen the sleeping and living areas.</li>
+    <li>🐖 House pigs away from the living quarters.</li>
+    <li>💉 Vaccines are available for travelers.</li>
+    <li>🐷 Vaccination of pigs and fogging with insecticide although effective are expensive.</li>
+  </ul>
+
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2.2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🦠 Prevention and Control of Leishmaniasis
+  </h2>
+  
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🔍 Reinforced surveillance, early detection, and treatment.</li>
+    <li>🐾 Reduction of animal reservoir.</li>
+    <li>🦟 Vector control.</li>
+    <li>💪 Personal protection with insecticide treated nets.</li>
+    <li>📢 Health promotion and social mobilization.</li>
+  </ul>
+
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2.2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🦠 Prevention and Control of Malaria
+  </h2>
+  
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🩺 Rapid diagnosis and effective case management.</li>
+    <li>🦟 Use of insecticide treated nets.</li>
+    <li>🧥 Permethrin sprayed blankets or treated clothing.</li>
+    <li>🏠 Indoor Residual Spraying.</li>
+    <li>💊 Chemo prophylaxis to non-immune expatriates and Intermittent Presumptive Therapy for pregnant women.</li>
+  </ul>
+
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2.2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    💉 Prevention and Control of Measles
+  </h2>
+  
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>💉 Routine vaccination.</li>
+    <li>⚡ Measles outbreak response.</li>
+    <li>🌍 Mass vaccination with measles vaccine is priority in emergency situations. The ideal target population being 6 months to 14 years old although age groups from 6 months to four years are still acceptable.</li>
+    <li>🧴 Measles vaccine should be accompanied with vitamin A administration in children 9 months to 5 years of age.</li>
+  </ul>
+
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2.2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🧠 Prevention and Control of Meningococcal Meningitis
+  </h2>
+  
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🔍 Early detection and control of the outbreak.</li>
+    <li>🩺 Diagnosis and management of cases.</li>
+    <li>💉 Mass vaccination.</li>
+    <li>👶 Highest risk group for meningococcal meningitis is children aged 2-10 years, and this should be the priority group during vaccination campaigns.</li>
+  </ul>
+</div>
+
+<div
+  style={{
+    maxWidth: "90%",
+    margin: "auto",
+    padding: "50px",
+    background: "#f4f6f9",
+    borderRadius: "20px",
+    boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.15)",
+    fontFamily: "'Poppins', sans-serif",
+    lineHeight: "1.8",
+  }}
+>
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2.2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🦠 Prevention and Control of Trypanosomiasis
+  </h2>
+  
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🩺 Human reservoir should be contained through periodic population screening and chemotherapy.</li>
+    <li>🦟 Tsetse fly control.</li>
+    <li>📢 Health education on personal protection against tsetse fly.</li>
+    <li>🚫 Donation of blood by those living in or have lived in endemic areas should be prohibited.</li>
+  </ul>
+
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2.2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🫁 Prevention and Control of Tuberculosis
+  </h2>
+  
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🏥 Need for integration with the national TB control program and involve local TB coordinators.</li>
+    <li>📋 Use the national TB treatment protocols.</li>
+    <li>🌍 Cover the local population also.</li>
+    <li>🏨 Refer seriously ill patients to local hospitals.</li>
+    <li>🔬 Laboratory services for sputum smears.</li>
+    <li>📝 Procedures in place for follow up of cases.</li>
+    <li>📊 Program evaluation.</li>
+  </ul>
+
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2.2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🍛 Prevention and Control of Typhoid Fever
+  </h2>
+  
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>💧 Health education, clean water, food inspection, proper food handling and proper sewage disposal.</li>
+    <li>🩺 Early detection and control are important in prevention of spread.</li>
+    <li>📚 WHO guidelines should be consulted.</li>
+    <li>🔬 Laboratory services are essential to know the outbreak strain and the antimicrobial sensitivity pattern.</li>
+    <li>💉 Mass vaccination may be an adjunct for the control during a sustained high incidence epidemic.</li>
+  </ul>
+
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2.2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🦠 Prevention and Control of Typhus (Epidemic Louse Borne)
+  </h2>
+  
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🔍 Confirm the epidemic.</li>
+    <li>🧴 All patients and contacts should be deloused with 0.5% Permethrin powder.</li>
+    <li>🧥 Clothing and bedding that have not been used should also be treated similarly.</li>
+  </ul>
+
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2.2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🦟 Prevention and Control of Yellow Fever
+  </h2>
+  
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>🦟 Personal protection against mosquito bites.</li>
+    <li>🏠 Sleeping and living quarters should be screened.</li>
+    <li>💉 Mass vaccination is key to control of outbreak.</li>
+    <li>🏙️ In urban areas mosquito breeding sites should be destroyed.</li>
+  </ul>
+
+  <h2
+    style={{
+      color: "#2c3e50",
+      textAlign: "center",
+      fontSize: "2.2rem",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    📚 References Used for This Presentation and Recommended Further Reading
+  </h2>
+  
+  <ul
+    style={{
+      listStyleType: "none",
+      paddingLeft: "0px",
+      color: "#34495e",
+      fontSize: "1rem",
+      marginBottom: "20px",
+    }}
+  >
+    <li>📖 Communicable disease control in emergencies (Field manual) - WHO publication Edited by M.A.Connolly</li>
+    <li>📚 Control of Communicable Diseases Manual APHA Editor James Chin</li>
+    <li>📑 WHO-UNICEF policy statement for mass immunization campaigns. Geneva, WHO 1997.</li>
+    <li>📘 Reingold AL Outbreak Investigations - a perspective. Emerging Infectious Diseases, 1998, 4(1):21-27</li>
+  </ul>
+</div>
+
+
   </div>,
   
    
     quiz:[
       {
-        question: "Which of the following is NOT one of the aging cohorts?",
-        options: ["Young-Old", "Middle-Old", "Middle-Young"],
-        correctAnswer: "Middle-Young",
+        question: "Which of the following is the most common mode of transmission for tuberculosis?",
+        options: ["Direct contact", "Airborne droplets", "Contaminated food"],
+        correctAnswer: "Airborne droplets",
       },
       {
-        question: "What does functional age refer to?",
-        options: ["The number of years a person has lived", "An individual’s ability to perform Activities of Daily Living (ADLs)", "The health of an individual’s brain"],
-        correctAnswer: "An individual’s ability to perform Activities of Daily Living (ADLs)",
+        question: "Which disease is caused by the varicella-zoster virus?",
+        options: ["Measles", "Chickenpox", "Smallpox"],
+        correctAnswer: "Chickenpox",
       },
       {
-        question: "Which theory views aging as a result of random events accumulating over time?",
-        options: ["Immunologic Theory", "Free Radical Theory", "Programmed Theory"],
-        correctAnswer: "Free Radical Theory",
+        question: "What is the main vector for malaria?",
+        options: ["Aedes mosquito", "Anopheles mosquito", "Tsetse fly"],
+        correctAnswer: "Anopheles mosquito",
       },
       {
-        question: "What is the expected life expectancy increase for individuals who survive to age 65?",
-        options: ["5 years", "18 years", "30 years"],
-        correctAnswer: "18 years",
+        question: "Which of the following is a preventive measure for the spread of HIV?",
+        options: ["Immunization", "Safe sex practices", "Hand hygiene"],
+        correctAnswer: "Safe sex practices",
       },
       {
-        question: "What is the primary focus of community health nurses in assisting older adults?",
-        options: ["Reducing the use of medications", "Increasing years of healthy life and independence", "Providing long-term care"],
-        correctAnswer: "Increasing years of healthy life and independence",
+        question: "Which is the causative agent of diphtheria?",
+        options: ["Bacterium", "Virus", "Protozoa"],
+        correctAnswer: "Bacterium",
       },
       {
-        question: "Which of the following is a characteristic of the 'old-old' cohort?",
-        options: ["65-74 years", "75-84 years", "85-99 years"],
-        correctAnswer: "85-99 years",
+        question: "Which communicable disease is most commonly spread through contaminated water?",
+        options: ["Hepatitis A", "Influenza", "Tuberculosis"],
+        correctAnswer: "Hepatitis A",
       },
       {
-        question: "Which of the following is NOT an example of a non-stochastic aging theory?",
-        options: ["Immunologic Theory", "Error Theory", "Programmed Theory"],
-        correctAnswer: "Error Theory",
+        question: "Which disease is associated with the 'bull's eye' rash?",
+        options: ["Syphilis", "Lyme disease", "Meningitis"],
+        correctAnswer: "Lyme disease",
       },
       {
-        question: "What percentage of older adults aged 65+ live in traditional community settings according to 2016 statistics?",
-        options: ["95%", "93%", "85%"],
-        correctAnswer: "93%",
+        question: "Which of the following is a common symptom of rubella?",
+        options: ["Cough", "Rash", "Diarrhea"],
+        correctAnswer: "Rash",
       },
       {
-        question: "Which of the following is a common problem related to aging and nutrition?",
-        options: ["Excessive intake of vitamins", "Diminished sense of smell", "Increased thirst sensation"],
-        correctAnswer: "Diminished sense of smell",
+        question: "Which of the following diseases is prevented by the BCG vaccine?",
+        options: ["Measles", "Tuberculosis", "Polio"],
+        correctAnswer: "Tuberculosis",
       },
       {
-        question: "What is one of the leading causes of death among individuals aged 65 and older?",
-        options: ["Chronic disease", "Accidents", "Infections"],
-        correctAnswer: "Chronic disease",
+        question: "Which of the following is the primary mode of transmission for hepatitis B?",
+        options: ["Airborne droplets", "Sexual contact and blood exposure", "Contaminated food"],
+        correctAnswer: "Sexual contact and blood exposure",
       },
       {
-        question: "What percentage of the older adult population was living in poverty by 2018?",
-        options: ["12%", "9%", "15%"],
-        correctAnswer: "9%",
+        question: "Which organism causes malaria?",
+        options: ["Bacterium", "Virus", "Plasmodium (parasite)"],
+        correctAnswer: "Plasmodium (parasite)",
       },
       {
-        question: "Which of the following chronic conditions is NOT one of the leading causes of death among older adults?",
-        options: ["Diabetes", "Asthma", "Hypertension"],
-        correctAnswer: "Asthma",
+        question: "Which of the following diseases is highly contagious and can be prevented by vaccination?",
+        options: ["Tuberculosis", "Measles", "HIV"],
+        correctAnswer: "Measles",
       },
       {
-        question: "What is the term for the use of many medications by older adults, often leading to drug interactions?",
-        options: ["Polypharmacy", "Self-medication", "Over-the-counter drug use"],
-        correctAnswer: "Polypharmacy",
+        question: "Which of the following is NOT a typical symptom of the flu?",
+        options: ["Fever", "Cough", "Rash"],
+        correctAnswer: "Rash",
       },
       {
-        question: "Which of the following is a key element for maintaining driving safety among older adults?",
-        options: ["Strong body strength and coordination", "Decreased vision", "Limited mobility"],
-        correctAnswer: "Strong body strength and coordination",
+        question: "What is the main preventive measure for the spread of tuberculosis?",
+        options: ["Wearing a mask", "Vaccination", "Antibiotics"],
+        correctAnswer: "Wearing a mask",
       },
       {
-        question: "Which theory of aging suggests that aging is determined by biological mechanisms?",
-        options: ["Stochastic Theory", "Programmed Theory", "Wear-and-Tear Theory"],
-        correctAnswer: "Programmed Theory",
+        question: "Which of the following is NOT a mode of transmission for hepatitis C?",
+        options: ["Blood-to-blood contact", "Sexual transmission", "Airborne droplets"],
+        correctAnswer: "Airborne droplets",
       },
       {
-        question: "What percentage of older women aged 85+ were widowed in 2007?",
-        options: ["65%", "50%", "76%"],
-        correctAnswer: "76%",
+        question: "Which disease is caused by the influenza virus?",
+        options: ["Common cold", "Influenza (flu)", "Pneumonia"],
+        correctAnswer: "Influenza (flu)",
       },
       {
-        question: "Which of the following is a benefit of health screenings for older adults?",
-        options: ["Higher healthcare costs", "Early disease detection", "Increased risk of disease"],
-        correctAnswer: "Early disease detection",
+        question: "What is the most effective way to prevent the spread of cholera?",
+        options: ["Good hygiene and sanitation", "Wearing a mask", "Vaccination"],
+        correctAnswer: "Good hygiene and sanitation",
       },
       {
-        question: "What is one of the most effective ways to prevent falls in older adults?",
-        options: ["Limiting physical activity", "Taking medications for dizziness", "Regular exercise to improve balance"],
-        correctAnswer: "Regular exercise to improve balance",
+        question: "Which disease is transmitted primarily through sexual contact?",
+        options: ["Tuberculosis", "Hepatitis C", "Syphilis"],
+        correctAnswer: "Syphilis",
       },
       {
-        question: "Which of the following is NOT a major risk factor for falls in older adults?",
-        options: ["Osteoporosis", "Low blood pressure", "High levels of physical activity"],
-        correctAnswer: "High levels of physical activity",
+        question: "What is the primary mode of transmission of the common cold?",
+        options: ["Ingestion of contaminated food", "Airborne droplets", "Direct contact with infected surfaces"],
+        correctAnswer: "Airborne droplets",
       },
       {
-        question: "What is a common sensory impairment in older adults?",
-        options: ["Increased taste sensitivity", "Hearing loss", "Enhanced vision"],
-        correctAnswer: "Hearing loss",
+        question: "Which vaccine prevents both cervical cancer and genital warts?",
+        options: ["Hepatitis B vaccine", "Human papillomavirus (HPV) vaccine", "Measles-mumps-rubella vaccine"],
+        correctAnswer: "Human papillomavirus (HPV) vaccine",
       },
       {
-        question: "Which type of elder abuse involves the unauthorized use of resources?",
-        options: ["Emotional abuse", "Financial exploitation", "Physical abuse"],
-        correctAnswer: "Financial exploitation",
+        question: "What is the causative agent of whooping cough?",
+        options: ["Bacterium", "Virus", "Fungus"],
+        correctAnswer: "Bacterium",
       },
       {
-        question: "Which of the following is the leading cause of unintentional injury death among older adults?",
-        options: ["Car accidents", "Falls", "Burns"],
-        correctAnswer: "Falls",
+        question: "Which disease is caused by the Bordetella pertussis bacteria?",
+        options: ["Diphtheria", "Whooping cough", "Tuberculosis"],
+        correctAnswer: "Whooping cough",
       },
       {
-        question: "Which of the following is a key role of community health nurses when working with older adults regarding advance directives?",
-        options: ["Ensuring the client’s advance directive is current", "Writing the advance directive for the client", "Ignoring the client’s advance directives"],
-        correctAnswer: "Ensuring the client’s advance directive is current",
+        question: "Which of the following diseases is transmitted by fleas?",
+        options: ["Malaria", "Plague", "HIV"],
+        correctAnswer: "Plague",
       },
       {
-        question: "Which of the following is a recommended health screening for older adults?",
-        options: ["Colonoscopy every 5 years", "Annual vision test", "Blood pressure screening every year"],
-        correctAnswer: "Blood pressure screening every year",
+        question: "Which disease is characterized by severe dehydration from vomiting and diarrhea?",
+        options: ["Cholera", "Hepatitis", "Meningitis"],
+        correctAnswer: "Cholera",
       },
       {
-        question: "Which of the following is a common health issue among older adults that nurses should address?",
-        options: ["Excessive weight gain", "Chronic conditions such as hypertension and diabetes", "Acute respiratory infections"],
-        correctAnswer: "Chronic conditions such as hypertension and diabetes",
+        question: "Which disease is most commonly associated with poor sanitation and contaminated water?",
+        options: ["Typhoid fever", "Tuberculosis", "Influenza"],
+        correctAnswer: "Typhoid fever",
       },
       {
-        question: "Which aging theory focuses on the concept that aging results from damage caused by free radicals?",
-        options: ["Somatic Mutation Theory", "Free Radical Theory", "Cross-Link Theory"],
-        correctAnswer: "Free Radical Theory",
+        question: "Which vaccine prevents the spread of polio?",
+        options: ["MMR vaccine", "Polio vaccine", "Diphtheria vaccine"],
+        correctAnswer: "Polio vaccine",
       },
       {
-        question: "What is a recommended strategy to reduce the risk of elder abuse?",
-        options: ["Lack of professional training for healthcare personnel", "Public education about elder abuse", "Avoiding assessment of elder abuse"],
-        correctAnswer: "Public education about elder abuse",
+        question: "Which disease is caused by the hepatitis E virus?",
+        options: ["Hepatitis A", "Hepatitis B", "Hepatitis E"],
+        correctAnswer: "Hepatitis E",
       },
       {
-        question: "Which of the following is a psychosocial issue often faced by older adults?",
-        options: ["Starting new careers", "Raising grandchildren", "Pursuing higher education"],
-        correctAnswer: "Raising grandchildren",
+        question: "What is the causative agent of the common cold?",
+        options: ["Bacterium", "Virus", "Fungi"],
+        correctAnswer: "Virus",
       },
       {
-        question: "What is a common issue related to medication use in older adults?",
-        options: ["Inconsistent medication adherence", "Excessive drug interactions", "Too few medications"],
-        correctAnswer: "Inconsistent medication adherence",
+        question: "What is the most effective way to prevent the spread of COVID-19?",
+        options: ["Wearing masks and maintaining social distancing", "Vaccination", "Both A and B"],
+        correctAnswer: "Both A and B",
       },
       {
-        question: "Which of the following aging-related physiological changes can affect an older adult’s nutritional status?",
-        options: ["Increased appetite", "Decreased absorption of vitamin B12", "Enhanced sense of taste"],
-        correctAnswer: "Decreased absorption of vitamin B12",
+        question: "Which of the following diseases is associated with high fever and rash, often starting on the face and spreading?",
+        options: ["Measles", "Chickenpox", "Rubella"],
+        correctAnswer: "Measles",
+      }
+    ]
+  },
+  {
+    id: 8,
+    title: "SCHOOL HEALTH NURSING",
+    description: "School Health Nursingg",
+    video: "https://path/to/video.mp4", // Link to a video
+    content: 
+    <div
+      style={{
+        maxWidth: "90%",
+        margin: "auto",
+        padding: "50px",
+        background: "#f0f8ff",
+        borderRadius: "20px",
+        boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.2)",
+        fontFamily: "'Poppins', sans-serif",
+        lineHeight: "1.8",
+        color: "#2c3e50",
+      }}
+    >
+      <h2
+        style={{
+          color: "#2563eb",
+          textAlign: "center",
+          fontSize: "36px",
+          marginBottom: "30px",
+          textTransform: "uppercase",
+          fontWeight: "bold",
+        }}
+      >
+        🏫 Definition of School Health
+      </h2>
+
+      <p style={{ fontSize: "18px", textAlign: "center", fontStyle: "italic" }}>
+        "School health refers to a state of complete physical, mental, social, and spiritual well-being, not merely the absence of disease or infirmity among pupils, teachers, and other school personnel." <b>(K.K. Gilani)</b>
+      </p>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>📚 Definition of School Health Services</h3>
+      <p style={{ fontSize: "18px" }}>
+        "School health service refers to need-based comprehensive services rendered to pupils, teachers, and other school personnel to promote and protect their health, prevent disease, and maintain well-being." <b>(K.K. Gulani)</b>
+      </p>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🎯 Aim of School Health Services</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>✅ The promotion of positive health.</li>
+        <li>🛑 The prevention of disease.</li>
+        <li>🩺 Early diagnosis, treatment, and follow-up of defects.</li>
+        <li>💡 Awakening health consciousness in children.</li>
+        <li>🏫 The provision of a healthful environment.</li>
+      </ul>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🔎 Need for School Health Services</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>👦 School children form a vital and substantial segment of the population.</li>
+        <li>🧠 They are in a crucial stage of physical, mental, emotional, and social development.</li>
+        <li>⚠️ They are exposed to various stressful situations.</li>
+        <li>🌎 Children come from different socio-economic and cultural backgrounds, affecting their health and nutrition.</li>
+        <li>🤒 School-aged children are prone to specific health problems.</li>
+      </ul>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>📌 Principles of School Health Services</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>🚀 Emphasize promotive and preventive aspects.</li>
+        <li>🎓 Encourage learning through active participation.</li>
+        <li>🔄 Maintain continuity as an ongoing process.</li>
+        <li>📊 Ensure an effective system for record-keeping and reporting.</li>
+      </ul>
+      <div
+  style={{
+    margin: "auto",
+    padding: "50px",
+    background: "#f0f8ff",
+    borderRadius: "20px",
+    boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.2)",
+    fontFamily: "'Poppins', sans-serif",
+    lineHeight: "1.8",
+    color: "#2c3e50",
+  }}
+>
+  <h2
+    style={{
+      color: "#2563eb",
+      textAlign: "center",
+      fontSize: "36px",
+      marginBottom: "30px",
+      textTransform: "uppercase",
+      fontWeight: "bold",
+    }}
+  >
+    🏫 Aspects of School Health Service
+  </h2>
+
+  <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+    <li>🩺 Health appraisal of school children and school personnel.</li>
+    <li>🔄 Remedial measures and follow-up.</li>
+    <li>🦠 Prevention of communicable diseases.</li>
+    <li>🏡 Healthful school environment.</li>
+    <li>🍏 Nutritional services.</li>
+    <li>🚑 First aid and emergency care.</li>
+    <li>🧠 Mental health.</li>
+    <li>🦷 Dental health.</li>
+    <li>👁️ Eye health.</li>
+    <li>📚 Health education.</li>
+    <li>♿ Education of handicapped students.</li>
+    <li>📑 Proper maintenance and use of school health records.</li>
+  </ul>
+
+  <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🔎 Health Appraisal</h3>
+  <p style={{ fontSize: "18px" }}>
+    Health appraisal covers students, teachers, and school personnel. It involves periodic medical examination and observation by teachers.
+  </p>
+
+  <h4 style={{ color: "#2563eb", fontSize: "20px", fontWeight: "bold" }}>📋 Periodic Medical Examination:</h4>
+  <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+    <li>🩺 Initial medical examination at school entry, followed by check-ups every 4 years.</li>
+    <li>👀 Tests for vision, hearing, and speech.</li>
+    <li>🩸 Routine blood and urine tests.</li>
+    <li>🥦 Nutritional deficiency check-ups and fecal tests.</li>
+    <li>🦠 Tuberculin testing and mass screening.</li>
+    <li>📏 Regular (quarterly) height and weight recording.</li>
+  </ul>
+
+  <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>💊 Remedial Measures & Follow-Up</h3>
+  <p style={{ fontSize: "18px" }}>
+    Medical examinations must be followed by treatment. Special school clinics should be available in rural and urban areas.
+  </p>
+
+  <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🦠 Prevention of Communicable Diseases</h3>
+  <p style={{ fontSize: "18px" }}>
+    Schools should implement immunization programs and maintain records for each student.
+  </p>
+
+  <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🏡 Healthful School Environment</h3>
+  <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+    <li>📍 Schools should be centrally located, away from factories and busy areas.</li>
+    <li>🌳 Sites should be on high land with proper drainage.</li>
+    <li>🏫 Primary schools should have at least 5 acres; higher elementary schools need 10 acres.</li>
+    <li>⚽ Playgrounds must be available.</li>
+    <li>🏠 Classrooms should have adequate ventilation and lighting.</li>
+    <li>💺 Age-appropriate furniture should be provided.</li>
+    <li>🚰 Safe drinking water should be available.</li>
+    <li>🍽️ Mid-day meals should have designated dining spaces.</li>
+    <li>🚻 Separate lavatories for boys and girls, maintaining proper sanitation.</li>
+    <li>🚪 Windows should cover at least 25% of floor space for ventilation.</li>
+    <li>🎨 Classrooms should be periodically whitewashed.</li>
+    <li>💡 Proper lighting should be available, mainly from the left side.</li>
+  </ul>
+</div>
+
+<div style={{
+  margin: "auto",
+  padding: "50px",
+  background: "#f0f8ff",
+  borderRadius: "20px",
+  boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.2)",
+  fontFamily: "'Poppins', sans-serif",
+  lineHeight: "1.8",
+  color: "#2c3e50",
+}}>
+  <h2 style={{ color: "#2563eb", textAlign: "center", fontSize: "36px", marginBottom: "30px", textTransform: "uppercase", fontWeight: "bold" }}>
+    🏫 School Health Services
+  </h2>
+
+  <div style={{
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))",
+    gap: "20px",
+  }}>
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🍏 Nutritional Services</h3>
+      <p>A child's physical and mental health depend on proper nutrition. Diet should contain all essential nutrients in appropriate proportions.</p>
+      <ul>
+        <li><strong>Mid-day school meal:</strong> SHC (1961) recommended at least one nourishing meal per day.</li>
+        <li><strong>Applied nutrition programme:</strong> UNICEF assists with supplies and education.</li>
+        <li><strong>Specific nutrients:</strong> Prevention of dental caries, night blindness, anemia, and other disorders.</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🚑 First Aid & Emergency Care</h3>
+      <p>Teachers should be trained in first aid through in-service programs.</p>
+      <p>Schools must have a fully equipped first-aid post.</p>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🧠 Mental Health</h3>
+      <p>Schools play a crucial role in shaping behavior and promoting mental well-being.</p>
+      <p>Vocational counselors and psychologists should guide students.</p>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🦷 Dental Health</h3>
+      <p>Common dental issues include caries and periodontal disease.</p>
+      <p>Annual dental check-ups and hygiene education are essential.</p>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>👁️ Eye Health Services</h3>
+      <p>Schools should detect vision issues early and provide treatments.</p>
+      <p>Vitamin A supplementation can prevent deficiencies.</p>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>📚 Health Education</h3>
+      <p>Health education should focus on personal hygiene, environmental hygiene, and family life.</p>
+      <p>Its goal is to bring desirable changes in health attitudes and practices.</p>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>♿ Education of Handicapped Children</h3>
+      <p>Supporting handicapped children to reach their full potential.</p>
+      <p>Encouraging independence and productivity in society.</p>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>📑 School Health Records</h3>
+      <p>Each student should have a cumulative health record.</p>
+      <p>Records must include health history, screenings, and services provided.</p>
+    </div>
+  </div>
+</div>
+
+<div style={{
+  margin: "auto",
+  padding: "50px",
+  background: "#f0f8ff",
+  borderRadius: "20px",
+  boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.2)",
+  fontFamily: "'Poppins', sans-serif",
+  lineHeight: "1.8",
+  color: "#2c3e50",
+}}>
+  <h2 style={{
+    color: "#2563eb",
+    textAlign: "center",
+    fontSize: "36px",
+    marginBottom: "30px",
+    textTransform: "uppercase",
+    fontWeight: "bold",
+  }}>
+    🏫 Purpose and Role of School Nursing
+  </h2>
+
+  <div style={{
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))",
+    gap: "20px",
+  }}>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🎯 Purpose of School Nursing</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+        <li>Facilitate positive student responses to normal development.</li>
+        <li>Promote health and safety.</li>
+        <li>Intervene with actual and potential health problems.</li>
+        <li>Provide case management services.</li>
+        <li>Collaborate with others to build student and family adaptation, self-management, self-advocacy, and learning.</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>👨‍👩‍👧‍👦 Groups Involved in Care</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+        <li>Toddlers</li>
+        <li>Preschoolers</li>
+        <li>School-age children</li>
+        <li>Teenagers</li>
+        <li>Adults</li>
+        <li>Children with special needs</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🩺 Role: Direct Care</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+        <li>Perform health assessments and analyze data to identify health problems.</li>
+        <li>Develop individualized healthcare plans and refer for follow-up as needed.</li>
+        <li>Provide ongoing health information to students, parents, and school authorities.</li>
+        <li>Plan, implement, and supervise school health screening programs.</li>
+        <li>Administer medications according to guidelines and maintain records.</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>👩‍⚕️ Role: Leadership</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+        <li>Develop plans and train staff in emergencies and disasters.</li>
+        <li>Maintain confidentiality and delegate care appropriately.</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🔍 Role: Screening and Referral</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+        <li>Screen for vision, hearing, posture, and body mass index.</li>
+        <li>Refer students for further care in a timely manner.</li>
+        <li>Recognize deviations from normal growth and development.</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🏫 Role: Promote Healthy School Environment</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+        <li>Ensure physical and emotional safety for students.</li>
+        <li>Implement precautions against infectious diseases and bloodborne pathogens.</li>
+        <li>Monitor immunization and report communicable diseases.</li>
+        <li>Assess the physical environment (playgrounds, air quality, etc.) and participate in hazard management plans.</li>
+        <li>Assess the emotional environment (bullying, suicide prevention, etc.).</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>💪 Role: Promotes Health</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+        <li>Provide health education to students, parents, and communities.</li>
+        <li>Promote health through school health councils and collaboration with other professionals.</li>
+        <li>Act as a role model in promoting a healthy lifestyle.</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>📋 Role: Leadership for Health Policies and Programs</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+        <li>Lead in developing and evaluating school health policies and procedures.</li>
+        <li>Focus on health promotion, protection, and chronic disease management.</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>📞 Role: Liaison</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+        <li>Serve as a liaison between school, home, and community.</li>
+        <li>Establish relationships with pediatricians for individualized health plans.</li>
+        <li>Communicate with families via phone and written communication.</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🔗 Role: Coordinate and Collaborate</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+        <li>Act as a resource person for promoting health.</li>
+        <li>Maintain supplies and equipment in the school clinic.</li>
+        <li>Set up a daily log for students visiting the nurse’s office or needing special attention.</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>⚖️ Other Responsibilities: Legal</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+        <li>Practice within the legal framework of the government and maintain a current license.</li>
+        <li>Follow national and jurisdictional legislation, policies, and procedures.</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>⚖️ Other Responsibilities: Ethical</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+        <li>Follow nursing ethics code of conduct and advocate for human rights protection.</li>
+        <li>Maintain confidentiality and demonstrate sensitivity to diversity in culture and religion.</li>
+      </ul>
+    </div>
+
+  </div>
+</div>
+
+<div style={{
+  margin: "auto",
+  padding: "50px",
+  background: "#f0f8ff",
+  borderRadius: "20px",
+  boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.1)",
+  fontFamily: "'Poppins', sans-serif",
+  lineHeight: "1.8",
+  color: "#2c3e50",
+}}>
+  <h2 style={{
+    color: "#2563eb",
+    textAlign: "center",
+    fontSize: "36px",
+    marginBottom: "30px",
+    textTransform: "uppercase",
+    fontWeight: "bold",
+  }}>
+    🏥 Other Responsibilities of School Nursing
+  </h2>
+
+  <div style={{
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))",
+    gap: "20px",
+  }}>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>📈 Personal & Professional Development</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+        <li>Assume responsibility for ongoing professional development.</li>
+        <li>Ensure continuous competency through learning opportunities.</li>
+        <li>Maintain records of learning and professional development activities.</li>
+        <li>Promote and maintain a positive image of the nursing profession.</li>
+        <li>Utilize nursing research and best practice guidelines to improve care.</li>
+        <li>Represent the nursing profession in relevant committees, task forces, boards, or forums.</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>👩‍⚕️ Nurse-Student Ratio</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+        <li>1 nurse per 750 students (NASN, 1995).</li>
+        <li>1 nurse per 225 students when students require daily nursing interventions.</li>
+        <li>1 nurse per 125 students when students have complex needs (AAP, 2008).</li>
+      </ul>
+    </div>
+
+  </div>
+</div>
+
+
+    </div>
+,
+  
+   
+    quiz:[
+      {
+        question: "What is the definition of School Health?",
+        options: ["The absence of disease or infirmity among students", "A state of complete physical, mental, social, and spiritual well-being", "Regular medical check-ups for students"],
+        correctAnswer: "A state of complete physical, mental, social, and spiritual well-being",
       },
+      {
+        question: "What is the aim of School Health Services?",
+        options: ["To focus solely on treating illnesses", "To promote positive health, prevent diseases, and ensure a healthful environment", "To provide medical insurance to students"],
+        correctAnswer: "To promote positive health, prevent diseases, and ensure a healthful environment",
+      },
+      {
+        question: "Why are school health services important?",
+        options: ["To prevent accidents in the school playground", "To manage the emotional and physical health of students at critical stages of development", "To provide financial support for school infrastructure"],
+        correctAnswer: "To manage the emotional and physical health of students at critical stages of development",
+      },
+      {
+        question: "Which of the following is a principle of school health services?",
+        options: ["Focus only on treating diseases", "Emphasize promotive and preventive aspects", "Limit participation to staff members only"],
+        correctAnswer: "Emphasize promotive and preventive aspects",
+      },
+      {
+        question: "What is included in the health appraisal of school children?",
+        options: ["Regular health education only", "Periodic medical examination and observation", "Weekly sports activities"],
+        correctAnswer: "Periodic medical examination and observation",
+      },
+      {
+        question: "What is the purpose of periodic medical examination in schools?",
+        options: ["To ensure students have access to nutritious food", "To check for vision, hearing, and speech problems, and assess overall health", "To monitor students' academic progress"],
+        correctAnswer: "To check for vision, hearing, and speech problems, and assess overall health",
+      },
+      {
+        question: "What is a recommended follow-up measure after medical examinations in schools?",
+        options: ["Immediate hospitalization", "Remedial measures and special school clinics", "Regular parent-teacher meetings"],
+        correctAnswer: "Remedial measures and special school clinics",
+      },
+      {
+        question: "Which of the following is essential in the prevention of communicable diseases in schools?",
+        options: ["Providing medical insurance for all students", "Implementing immunization programs and maintaining student health records", "Offering free meals to all students"],
+        correctAnswer: "Implementing immunization programs and maintaining student health records",
+      },
+      {
+        question: "What should be the location characteristics of a healthful school environment?",
+        options: ["Centralized in crowded urban areas", "Away from factories and busy areas, with proper drainage", "Located near shopping malls and entertainment zones"],
+        correctAnswer: "Away from factories and busy areas, with proper drainage",
+      },
+      {
+        question: "Which of the following is NOT a part of a healthful school environment?",
+        options: ["Safe drinking water", "Age-appropriate furniture", "Indoor swimming pools"],
+        correctAnswer: "Indoor swimming pools",
+      },
+      {
+        question: "What is the significance of mid-day meals in schools?",
+        options: ["To provide one nourishing meal per day to all students", "To offer free snacks to students", "To distribute nutrition education materials to students"],
+        correctAnswer: "To provide one nourishing meal per day to all students",
+      },
+      {
+        question: "What role do teachers play in first aid and emergency care?",
+        options: ["Teachers are not involved in first aid", "Teachers should be trained in first aid during in-service programs", "Teachers should refer all cases to the nearest hospital without intervention"],
+        correctAnswer: "Teachers should be trained in first aid during in-service programs",
+      },
+      {
+        question: "Why are vocational counselors and psychologists important in schools?",
+        options: ["To handle the academic workload of students", "To guide students into careers suited to their abilities and interests", "To ensure that all students participate in extracurricular activities"],
+        correctAnswer: "To guide students into careers suited to their abilities and interests",
+      },
+      {
+        question: "Which dental diseases are most common among schoolchildren?",
+        options: ["Dental caries and periodontal disease", "Tooth sensitivity and gum bleeding", "Jaw pain and mouth ulcers"],
+        correctAnswer: "Dental caries and periodontal disease",
+      },
+      {
+        question: "How often should dental check-ups be conducted in schools?",
+        options: ["Every month", "Once a year", "Every 6 months"],
+        correctAnswer: "Once a year",
+      },
+      {
+        question: "What is the role of eye health services in schools?",
+        options: ["To provide glasses to all students", "To detect vision issues early and provide treatments", "To conduct yearly eye surgeries for all students"],
+        correctAnswer: "To detect vision issues early and provide treatments",
+      },
+      {
+        question: "What is the goal of health education in schools?",
+        options: ["To teach children a set of hygiene rules", "To bring about desirable changes in health knowledge, attitudes, and practices", "To monitor students' academic performance"],
+        correctAnswer: "To bring about desirable changes in health knowledge, attitudes, and practices",
+      },
+      {
+        question: "What is the purpose of maintaining a cumulative health record for each student?",
+        options: ["To track academic progress", "To document health history, screenings, and services provided", "To store emergency contact details only"],
+        correctAnswer: "To document health history, screenings, and services provided",
+      },
+      {
+        question: "Which group is involved in the care provided by school nursing?",
+        options: ["Adults", "Teenagers", "Children with special needs"],
+        correctAnswer: "Children with special needs",
+      },
+      {
+        question: "What is the primary role of school nursing?",
+        options: ["To assist in academic teaching", "To provide direct health care to students and staff", "To manage the school's extracurricular activities"],
+        correctAnswer: "To provide direct health care to students and staff",
+      },
+      {
+        question: "Which of the following is a responsibility of a school nurse in direct care?",
+        options: ["Analyzing data to identify health problems", "Managing student finances", "Teaching mathematics to students"],
+        correctAnswer: "Analyzing data to identify health problems",
+      },
+      {
+        question: "What should a school nurse do if a child has complex health needs?",
+        options: ["Ignore the case", "Develop an individualized healthcare plan and refer for further follow-up", "Send the child home immediately"],
+        correctAnswer: "Develop an individualized healthcare plan and refer for further follow-up",
+      },
+      {
+        question: "Which of the following is part of the leadership role of a school nurse?",
+        options: ["Monitor students' academic performance", "Develop plans and train staff for emergencies", "Handle all student disciplinary issues"],
+        correctAnswer: "Develop plans and train staff for emergencies",
+      },
+      {
+        question: "How does a school nurse promote a healthy school environment?",
+        options: ["By ensuring only physical safety", "By providing emotional safety and assessing the physical environment", "By limiting students' physical activities"],
+        correctAnswer: "By providing emotional safety and assessing the physical environment",
+      },
+      {
+        question: "Which of the following is NOT part of the nurse's role in promoting health?",
+        options: ["Provide health education to students, parents, and communities", "Monitor students' behavior", "Act as a role model in promoting a healthy lifestyle"],
+        correctAnswer: "Monitor students' behavior",
+      },
+      {
+        question: "What does a school nurse do to promote health policies and programs?",
+        options: ["Focus on health education alone", "Lead in the development and evaluation of health policies", "Focus on organizing school events only"],
+        correctAnswer: "Lead in the development and evaluation of health policies",
+      },
+      {
+        question: "What is the role of a school nurse as a liaison?",
+        options: ["Serve as a liaison between the school, home, and community", "Teach all academic subjects", "Manage school events and fundraisers"],
+        correctAnswer: "Serve as a liaison between the school, home, and community",
+      },
+      {
+        question: "What is the nurse-student ratio for schools with students requiring daily nursing interventions?",
+        options: ["1 nurse per 750 students", "1 nurse per 225 students", "1 nurse per 125 students"],
+        correctAnswer: "1 nurse per 225 students",
+      },
+      {
+        question: "Which of the following is a legal responsibility of a school nurse?",
+        options: ["Practice without a license", "Maintain current license and follow legislation", "Ignore national policies and procedures"],
+        correctAnswer: "Maintain current license and follow legislation",
+      },
+      {
+        question: "Which of the following is an ethical responsibility of a school nurse?",
+        options: ["Disclose all patient information", "Advocate for human rights and maintain confidentiality", "Disregard cultural diversity in patient care"],
+        correctAnswer: "Advocate for human rights and maintain confidentiality",
+      },
+      {
+        question: "What is the purpose of personal and professional development for school nurses?",
+        options: ["To assume responsibility for ongoing professional development", "To ignore new learning opportunities", "To follow outdated practices"],
+        correctAnswer: "To assume responsibility for ongoing professional development",
+      },
+      {
+        question: "What is the recommended nurse-student ratio when students have complex health needs?",
+        options: ["1 nurse per 750 students", "1 nurse per 225 students", "1 nurse per 125 students"],
+        correctAnswer: "1 nurse per 125 students",
+      }
+    ]
+  },
+  {
+    id: 9,
+    title: "NATURAL AND MAN MADE DISASTER",
+    description: "Natural and man made disaster",
+    video: "https://path/to/video.mp4", // Link to a video
+    content: 
+    <div
+    style={{
+      margin: "auto",
+      padding: "50px",
+      background: "#f0f8ff",
+      borderRadius: "20px",
+      boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.1)",
+      fontFamily: "'Poppins', sans-serif",
+      lineHeight: "1.8",
+      color: "#2c3e50",
+    }}
+  >
+    <h2
+      style={{
+        color: "#2563eb",
+        textAlign: "center",
+        fontSize: "36px",
+        marginBottom: "30px",
+        textTransform: "uppercase",
+        fontWeight: "bold",
+      }}
+    >
+      🌍 Disaster: Meaning & Impact
+    </h2>
+
+    <p style={{ fontSize: "18px" }}>
+      Disaster means any occurrence that causes damage, ecological disruption,
+      loss of human life, or deterioration of health and health services on a
+      scale requiring extraordinary response. (WHO, 1995)
+    </p>
+
+    <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>
+      🔍 Epidemiological Framework
+    </h3>
+    <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+      <li><strong>Disaster Agent:</strong> Primary (e.g., falling buildings, wind, rising water) & Secondary (e.g., bacteria, viruses).</li>
+      <li><strong>Host:</strong> Includes humans, their health, mobility, emotional stability, etc.</li>
+      <li><strong>Environment:</strong> Physical (weather, utilities), Chemical (toxic leaks), Biological (contaminated water, pests), Social (family loss, religious beliefs), Psychological (trauma).</li>
+    </ul>
+
+    <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🌪️ Types of Disasters</h3>
+    <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))", gap: "20px" }}>
+      <div>
+        <h4 style={{ color: "#2563eb", fontSize: "20px" }}>🌿 Natural Disasters</h4>
+        <ul>
+          <li>Droughts, earthquakes, tsunamis</li>
+          <li>Forest fires, landslides, blizzards</li>
+          <li>Hurricanes, tornadoes, floods, volcanic eruptions</li>
+        </ul>
+      </div>
+      <div>
+        <h4 style={{ color: "#2563eb", fontSize: "20px" }}>🏭 Man-Made Disasters</h4>
+        <ul>
+          <li>Hazardous substance accidents (chemicals, toxic gases)</li>
+          <li>Dam failures, resource shortages (food, electricity, water)</li>
+          <li>Fires, explosions, terrorism, riots, bioterrorism</li>
+        </ul>
+      </div>
+    </div>
+
+    <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>📌 Factors Influencing Disasters</h3>
+    <ul>
+      <li>Nature of the event</li>
+      <li>Time of year or day</li>
+      <li>Health & age characteristics of affected populations</li>
+      <li>Availability of resources</li>
+    </ul>
+
+    <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>💥 Impact of Disasters</h3>
+    <ul>
+      <li><strong>Earthquakes & Tornadoes:</strong> Sudden onset with rapid destruction.</li>
+      <li><strong>Hurricanes & Volcanic Eruptions:</strong> Sudden impact but with advance warnings.</li>
+      <li><strong>Bioterrorism:</strong> Unanticipated with prolonged consequences.</li>
+      <li><strong>Droughts & Famines:</strong> Gradual onset with long-term effects.</li>
+      <li><strong>Wars, Political Unrest:</strong> Large-scale displacement and social instability.</li>
+    </ul>
+
+    <div
+      style={{
+        margin: "auto",
+        padding: "50px",
+        background: "#eef7ff",
+        borderRadius: "20px",
+        boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.1)",
+        fontFamily: "'Poppins', sans-serif",
+        lineHeight: "1.8",
+        color: "#2c3e50",
+      }}
+    >
+      <h2
+        style={{
+          color: "#d63031",
+          textAlign: "center",
+          fontSize: "36px",
+          marginBottom: "30px",
+          textTransform: "uppercase",
+          fontWeight: "bold",
+        }}
+      >
+        🌍 Life Cycle of a Disaster
+      </h2>
+
+      <div
+        style={{
+          display: "grid",
+          gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))",
+          gap: "20px",
+        }}
+      >
+        {/* Pre-Impact Phase */}
+        <div>
+          <h3 style={{ color: "#0984e3", fontSize: "24px", fontWeight: "bold" }}>
+            ⚠️ Pre-Impact Phase
+          </h3>
+          <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+            <li>🚨 Initial phase with early warnings before disaster occurs.</li>
+            <li>🏥 Emergency centers are activated.</li>
+            <li>📡 Communication through radio and television.</li>
+            <li>📚 Community education to ensure preparedness.</li>
+          </ul>
+        </div>
+
+        {/* Impact Phase */}
+        <div>
+          <h3 style={{ color: "#e17055", fontSize: "24px", fontWeight: "bold" }}>
+            💥 Impact Phase
+          </h3>
+          <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+            <li>🚑 Emergency response and crisis management.</li>
+            <li>🛑 Mitigation efforts to minimize damage.</li>
+            <li>🏢 Emergency Operations Center (EOC) activated.</li>
+            <li>💙 Physical and psychological support for victims.</li>
+          </ul>
+        </div>
+
+        {/* Post-Impact Phase */}
+        <div>
+          <h3 style={{ color: "#2ecc71", fontSize: "24px", fontWeight: "bold" }}>
+            🔄 Post-Impact Phase
+          </h3>
+          <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+            <li>🔧 Recovery process begins during the emergency phase.</li>
+            <li>🏗️ Reconstruction and rehabilitation efforts.</li>
+            <li>📈 Evaluation of disaster response and future preparedness.</li>
+            <li>💔 Some impacts last a lifetime (e.g., Hiroshima bombing victims).</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div
+      style={{
+        margin: "auto",
+        padding: "50px",
+        background: "#f0f8ff",
+        borderRadius: "20px",
+        boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.1)",
+        fontFamily: "'Poppins', sans-serif",
+        lineHeight: "1.8",
+        color: "#2c3e50",
+      }}
+    >
+      <h2
+        style={{
+          color: "#d97706",
+          textAlign: "center",
+          fontSize: "36px",
+          marginBottom: "30px",
+          textTransform: "uppercase",
+          fontWeight: "bold",
+        }}
+      >
+        🌍 Phases of Disaster Management
+      </h2>
+      <p style={{ fontSize: "18px", textAlign: "center", marginBottom: "30px" }}>
+        Disaster management (or emergency management) is the creation of plans through which
+        communities reduce vulnerability to hazards and cope with disasters.
+      </p>
+      
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))", gap: "20px" }}>
+        <div>
+          <h3 style={{ color: "#dc2626", fontSize: "24px", fontWeight: "bold" }}>⚠️ Preparedness</h3>
+          <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+            <li>Proactive planning efforts before a disaster.</li>
+            <li>Communication plans and emergency coordination.</li>
+            <li>Disaster education for communities and health personnel.</li>
+            <li>Ensuring supplies, equipment, and shelters.</li>
+          </ul>
+        </div>
+        
+        <div>
+          <h3 style={{ color: "#0d9488", fontSize: "24px", fontWeight: "bold" }}>🛑 Mitigation</h3>
+          <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+            <li>Removing or reducing the harmful effects of disasters.</li>
+            <li>Preventative measures like building codes and zoning laws.</li>
+            <li>Requires planning, implementation, and funding.</li>
+          </ul>
+        </div>
+        
+        <div>
+          <h3 style={{ color: "#2563eb", fontSize: "24px", fontWeight: "bold" }}>🚨 Response</h3>
+          <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+            <li>Emergency relief and rescue operations.</li>
+            <li>First aid, evacuations, and immediate medical care.</li>
+            <li>Organized activities in fire, police, and emergency services.</li>
+          </ul>
+        </div>
+        
+        <div>
+          <h3 style={{ color: "#9333ea", fontSize: "24px", fontWeight: "bold" }}>🏗️ Recovery</h3>
+          <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+            <li>Stabilizing and returning the community to normal.</li>
+            <li>Rebuilding, repairing, and relocating efforts.</li>
+            <li>Restoring damaged systems such as communication and transport.</li>
+          </ul>
+        </div>
+        
+        <div>
+          <h3 style={{ color: "#facc15", fontSize: "24px", fontWeight: "bold" }}>📊 Evaluation</h3>
+          <ul style={{ fontSize: "18px", lineHeight: "1.6" }}>
+            <li>Analyzing response efforts and outcomes.</li>
+            <li>Identifying challenges and areas for improvement.</li>
+            <li>Developing better future disaster plans.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <div style={{ textAlign: "center", marginTop: "40px" }}>
+        <h3 style={{ color: "#22c55e", fontSize: "26px", fontWeight: "bold" }}>🔄 Back to Preparedness</h3>
+        <p style={{ fontSize: "18px" }}>The cycle repeats to ensure continued readiness for future disasters.</p>
+      </div>
+    </div>
+
+    <div
+      style={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        height: "100vh",
+        background: "#f4f4f4",
+      }}
+    >
+      <div
+        style={{
+          position: "relative",
+          width: "400px",
+          height: "400px",
+          borderRadius: "50%",
+          border: "8px solid #2563eb",
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          background: "white",
+          boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.1)",
+        }}
+      >
+        <h2
+          style={{
+            position: "absolute",
+            textAlign: "center",
+            fontSize: "20px",
+            color: "#2563eb",
+            fontWeight: "bold",
+          }}
+        >
+          Disaster Management Cycle
+        </h2>
+
+        {[
+          { label: "Preparedness", top: "-30px", left: "42%" },
+          { label: "Mitigation", top: "10%", left: "-80px" },
+          { label: "Response", bottom: "10%", left: "-80px" },
+          { label: "Recovery", bottom: "-30px", left: "42%" },
+          { label: "Evaluation", bottom: "10%", right: "-80px" },
+          { label: "Development", top: "10%", right: "-80px" },
+        ].map((phase, index) => (
+          <div
+            key={index}
+            style={{
+              position: "absolute",
+              top: phase.top,
+              bottom: phase.bottom,
+              left: phase.left,
+              right: phase.right,
+              background: "#2563eb",
+              color: "white",
+              padding: "10px 15px",
+              borderRadius: "20px",
+              fontWeight: "bold",
+              fontSize: "14px",
+              boxShadow: "2px 4px 10px rgba(0, 0, 0, 0.2)",
+            }}
+          >
+            {phase.label}
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <div
+      style={{
+        margin: "auto",
+        padding: "50px",
+        background: "#f0f8ff",
+        borderRadius: "20px",
+        boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.1)",
+        fontFamily: "'Poppins', sans-serif",
+        lineHeight: "1.8",
+        color: "#2c3e50",
+      }}
+    >
+      <h2
+        style={{
+          color: "#2563eb",
+          textAlign: "center",
+          fontSize: "36px",
+          marginBottom: "30px",
+          textTransform: "uppercase",
+          fontWeight: "bold",
+        }}
+      >
+        🏥 Role of Nurses in Disaster Management
+      </h2>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🩺 Nurses Provide:</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>Psychological care</li>
+        <li>Emotional support services</li>
+        <li>Treatment for victims and their families</li>
+      </ul>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>📋 Assessing the Community</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>Is there a disaster plan in place?</li>
+        <li>What are the previous disaster experiences?</li>
+        <li>Local climate and terrain conditions</li>
+        <li>Available personnel and disaster resources</li>
+        <li>Support for infants, elderly, and disabled</li>
+        <li>Common chronic illnesses needing immediate attention</li>
+      </ul>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>⚠️ Diagnosing Community Disaster Threats</h3>
+      <p style={{ fontSize: "18px" }}>Identify actual and potential disaster threats.</p>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>📑 Community Disaster Planning</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>Develop and implement disaster plans</li>
+        <li>Identify communication systems</li>
+        <li>Establish responsibilities and a chain of command</li>
+        <li>Practice disaster drills and response plans</li>
+      </ul>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🔍 Evaluating the Disaster Plan</h3>
+      <p style={{ fontSize: "18px" }}>
+        Evaluate effectiveness, speed, gaps, and areas for improvement.
+      </p>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🚧 Challenges</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>Communication problems</li>
+        <li>Evacuation and transportation issues</li>
+        <li>Resource distribution</li>
+        <li>Media handling</li>
+        <li>Infrastructure destruction</li>
+        <li>Volunteer and donation management</li>
+      </ul>
+
+      <h3 style={{ color: "#4338ca", fontSize: "24px", fontWeight: "bold" }}>🛠️ Emergency Kits</h3>
+      <ul style={{ fontSize: "18px", lineHeight: "1.6", paddingLeft: "20px" }}>
+        <li>Disaster supplies kit</li>
+        <li>Evacuation kit</li>
+        <li>First aid kit</li>
+      </ul>
+
+      <p style={{ textAlign: "center", fontSize: "18px", fontWeight: "bold", color: "#2563eb" }}>
+        "Preparedness saves lives!"
+      </p>
+    </div>
+
+<div
+style={{
+  margin: "auto",
+  padding: "50px",
+  background: "#f0f8ff",
+  borderRadius: "20px",
+  boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.1)",
+  fontFamily: "'Poppins', sans-serif",
+  lineHeight: "1.8",
+  color: "#2c3e50",
+}}
+>
+<h2
+  style={{
+    color: "#2563eb",
+    textAlign: "center",
+    fontSize: "36px",
+    marginBottom: "30px",
+    textTransform: "uppercase",
+    fontWeight: "bold",
+  }}
+>
+  🚑 Triage Classification System
+</h2>
+
+<div
+  style={{
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))",
+    gap: "20px",
+  }}
+>
+  <div style={{ background: "#ff4d4d", padding: "20px", borderRadius: "10px", color: "white" }}>
+    <h3>🔴 Red - High Priority</h3>
+    <ul>
+      <li>Massive hemorrhage</li>
+      <li>Shock</li>
+      <li>Chest wounds</li>
+      <li>Severe burns (20%-60%)</li>
+      <li>Severe head injuries</li>
+    </ul>
+  </div>
+
+  <div style={{ background: "#ffcc00", padding: "20px", borderRadius: "10px", color: "black" }}>
+    <h3>🟡 Yellow - Medium Priority</h3>
+    <ul>
+      <li>Multiple fractures</li>
+      <li>Large lacerations</li>
+      <li>Spinal injuries</li>
+      <li>Burns (10%-20%)</li>
+      <li>Diabetic coma</li>
+    </ul>
+  </div>
+
+  <div style={{ background: "#66cc66", padding: "20px", borderRadius: "10px", color: "white" }}>
+    <h3>🟢 Green - Low Priority</h3>
+    <ul>
+      <li>Minor burns</li>
+      <li>Sprains & abrasions</li>
+      <li>Minor lacerations</li>
+      <li>Closed fractures</li>
+    </ul>
+  </div>
+
+  <div style={{ background: "#333", padding: "20px", borderRadius: "10px", color: "white" }}>
+    <h3>⚫ Black - Deceased</h3>
+    <ul>
+      <li>Massive head injuries</li>
+      <li>Severe burns (95% coverage)</li>
+      <li>Minimal chance of survival</li>
+    </ul>
+  </div>
+</div>
+</div>
+
+<div
+      style={{
+        margin: "auto",
+        padding: "50px",
+        background: "#f8f9fa",
+        borderRadius: "20px",
+        boxShadow: "0px 12px 30px rgba(0, 0, 0, 0.1)",
+        fontFamily: "'Poppins', sans-serif",
+        lineHeight: "1.8",
+        color: "#2c3e50",
+      }}
+    >
+      <h2
+        style={{
+          color: "#d32f2f",
+          textAlign: "center",
+          fontSize: "36px",
+          marginBottom: "30px",
+          textTransform: "uppercase",
+          fontWeight: "bold",
+        }}
+      >
+        🏥 In-Hospital Disaster Management
+      </h2>
+
+      <h3 style={{ color: "#1976d2", fontSize: "28px", fontWeight: "bold" }}>
+        🚑 Basic Disaster Life Support
+      </h3>
+      <p>
+        Review of hazardous events, including natural and man-made disasters,
+        chemical, traumatic, explosive, and nuclear events. Also includes
+        incident management systems and public health roles.
+      </p>
+
+      <h3 style={{ color: "#1976d2", fontSize: "28px", fontWeight: "bold" }}>
+        📊 Disaster Paradigm (D.I.S.A.S.T.E.R.)
+      </h3>
+      <ul style={{ fontSize: "18px" }}>
+        <li><strong>D:</strong> Detect</li>
+        <li><strong>I:</strong> Incident Command</li>
+        <li><strong>S:</strong> Scene Security & Safety</li>
+        <li><strong>A:</strong> Assess Hazards</li>
+        <li><strong>S:</strong> Support</li>
+        <li><strong>T:</strong> Triage & Treatment</li>
+        <li><strong>E:</strong> Evaluation</li>
+      </ul>
+
+      <h3 style={{ color: "#388e3c", fontSize: "28px", fontWeight: "bold" }}>
+        💡 CMC Model (Command, Management, Coordination)
+      </h3>
+      <p>
+        The <strong>CMC Model</strong> is a structured framework for disaster response,
+        focusing on three key components:
+      </p>
+      <ul style={{ fontSize: "18px" }}>
+        <li><strong>Command:</strong> Centralized leadership ensuring decisive action.</li>
+        <li><strong>Management:</strong> Efficient resource allocation and emergency protocols.</li>
+        <li><strong>Coordination:</strong> Collaboration between medical teams, public health units,
+          and emergency services.</li>
+      </ul>
+
+      <h3 style={{ color: "#d84315", fontSize: "28px", fontWeight: "bold" }}>
+        ⚠️ Mass Casualty Incidence (MCI)
+      </h3>
+      <p>
+        A mass casualty incident is an event that overwhelms hospital emergency
+        resources, requiring additional support from external agencies.
+      </p>
+      <h4 style={{ color: "#d84315", fontSize: "24px" }}>Principles of Management:</h4>
+      <ul style={{ fontSize: "18px" }}>
+        <li>🚨 <strong>Triage:</strong> Sorting patients based on severity.</li>
+        <li>🏥 <strong>Treatment:</strong> Immediate medical intervention.</li>
+        <li>🚑 <strong>Transfer:</strong> Relocating patients to specialized facilities.</li>
+      </ul>
+
+      <h3 style={{ color: "#8e24aa", fontSize: "28px", fontWeight: "bold" }}>
+        🎭 Psychological Reactions (Children & Adults)
+      </h3>
+      <ul style={{ fontSize: "18px" }}>
+        <li>🗣️ Honest, developmentally appropriate explanations.</li>
+        <li>💖 Encourage emotional expression & reassurance.</li>
+        <li>🎮 Maintain daily activities to restore normalcy.</li>
+      </ul>
+
+      <h3 style={{ color: "#0288d1", fontSize: "28px", fontWeight: "bold" }}>
+        🚨 National Disaster Response Force (NDRF)
+      </h3>
+      <p>
+        A multidisciplinary, high-tech response force capable of handling
+        natural and man-made disasters. Includes engineers, medical personnel,
+        paramedics, and search & rescue teams.
+      </p>
+    </div>
+
+  </div>
+,
+  
+   
+    quiz:[
+      {
+        question: "What is the definition of a disaster according to WHO (1995)?",
+        options: [
+          "Any event that occurs naturally",
+          "Any occurrence causing damage, disruption, and requiring an extraordinary response",
+          "Any small-scale incident affecting a community"
+        ],
+        correctAnswer: "Any occurrence causing damage, disruption, and requiring an extraordinary response",
+      },
+      {
+        question: "Which of the following is a primary disaster agent?",
+        options: ["Bacteria", "Viruses", "Falling buildings"],
+        correctAnswer: "Falling buildings",
+      },
+      {
+        question: "Which of the following is NOT a natural disaster?",
+        options: ["Tsunami", "Bioterrorism", "Earthquake"],
+        correctAnswer: "Bioterrorism",
+      },
+      {
+        question: "Which of the following is considered a man-made disaster?",
+        options: ["Landslide", "Tornado", "Chemical explosion"],
+        correctAnswer: "Chemical explosion",
+      },
+      {
+        question: "What is a key factor that influences disasters?",
+        options: ["Availability of resources", "Population height", "Number of social media posts"],
+        correctAnswer: "Availability of resources",
+      },
+      {
+        question: "Which disaster is characterized by a sudden onset and rapid destruction?",
+        options: ["Earthquake", "Famine", "Drought"],
+        correctAnswer: "Earthquake",
+      },
+      {
+        question: "Which disaster has a gradual onset with long-term effects?",
+        options: ["Hurricane", "Drought", "Tornado"],
+        correctAnswer: "Drought",
+      },
+      {
+        question: "In which phase of the disaster cycle does mitigation occur?",
+        options: ["Pre-impact", "Recovery", "Preparedness"],
+        correctAnswer: "Preparedness",
+      },
+      {
+        question: "What is the primary goal of the response phase?",
+        options: ["Emergency relief and rescue operations", "Rebuilding infrastructure", "Community education"],
+        correctAnswer: "Emergency relief and rescue operations",
+      },
+      {
+        question: "Which phase focuses on analyzing response efforts and outcomes?",
+        options: ["Mitigation", "Evaluation", "Recovery"],
+        correctAnswer: "Evaluation",
+      },
+      {
+        question: "What is the final stage of the disaster management cycle?",
+        options: ["Development", "Recovery", "Back to Preparedness"],
+        correctAnswer: "Back to Preparedness",
+      },
+      {
+        question: "Which of the following is a key role of nurses in disaster management?",
+        options: ["Infrastructure repair", "Psychological care and treatment for victims", "Weather forecasting"],
+        correctAnswer: "Psychological care and treatment for victims",
+      },
+      {
+        question: "What should a community disaster plan include?",
+        options: ["Identification of resources and personnel", "Ban on all social events", "Immediate evacuation without coordination"],
+        correctAnswer: "Identification of resources and personnel",
+      },
+      {
+        question: "Which color tag is assigned to high-priority patients in triage?",
+        options: ["Green", "Red", "Black"],
+        correctAnswer: "Red",
+      },
+      {
+        question: "Which of the following injuries would fall under the yellow triage category?",
+        options: ["Multiple fractures", "Minor abrasions", "Severe head trauma"],
+        correctAnswer: "Multiple fractures",
+      },
+      {
+        question: "Which triage category is assigned to ambulatory patients with minor injuries?",
+        options: ["Green", "Red", "Yellow"],
+        correctAnswer: "Green",
+      },
+      {
+        question: "Which triage category is for patients with minimal chance of survival?",
+        options: ["Yellow", "Black", "Green"],
+        correctAnswer: "Black",
+      },
+      {
+        question: "What is the purpose of an emergency kit?",
+        options: ["To store valuable jewelry", "To provide essential supplies in case of disaster", "To replace professional medical care"],
+        correctAnswer: "To provide essential supplies in case of disaster",
+      },
+      {
+        question: "What is the focus of the CMC Model in disaster management?",
+        options: ["Infrastructure rebuilding", "Command, Management, and Coordination", "Public fundraising"],
+        correctAnswer: "Command, Management, and Coordination",
+      },
+      {
+        question: "Which of the following is NOT part of the disaster paradigm (D.I.S.A.S.T.E.R)?",
+        options: ["Support", "Environment", "Triage"],
+        correctAnswer: "Environment",
+      },
+      {
+        question: "What is the primary goal of disaster preparedness?",
+        options: ["Provide temporary relief", "Proactively plan for disaster response", "Ignore early warnings"],
+        correctAnswer: "Proactively plan for disaster response",
+      },
+      {
+        question: "Which phase includes emergency response and crisis management?",
+        options: ["Impact", "Recovery", "Evaluation"],
+        correctAnswer: "Impact",
+      },
+      {
+        question: "Which disaster type has an advance warning system?",
+        options: ["Tornado", "Earthquake", "Hurricane"],
+        correctAnswer: "Hurricane",
+      },
+      {
+        question: "What is the key principle of triage in mass casualty incidents?",
+        options: ["Treating the most severe cases first", "Treating patients in the order they arrive", "Doing the greatest good for the greatest number"],
+        correctAnswer: "Doing the greatest good for the greatest number",
+      },
+      {
+        question: "What is a major challenge in disaster management?",
+        options: ["Too much public cooperation", "Poor communication and resource distribution", "Easy accessibility of medical personnel"],
+        correctAnswer: "Poor communication and resource distribution",
+      },
+      {
+        question: "What is a key role of the National Disaster Response Force (NDRF)?",
+        options: ["Construction of hospitals", "Specialized response to natural and man-made disasters", "Organizing community picnics"],
+        correctAnswer: "Specialized response to natural and man-made disasters",
+      },
+      {
+        question: "Which factor influences a community’s vulnerability to disasters?",
+        options: ["Availability of TikTok trends", "Health and age characteristics of the population", "Popularity of social media influencers"],
+        correctAnswer: "Health and age characteristics of the population",
+      },
+      {
+        question: "What should be done in the evaluation phase of disaster management?",
+        options: ["Ignore feedback", "Identify challenges and areas for improvement", "Focus only on rescue efforts"],
+        correctAnswer: "Identify challenges and areas for improvement",
+      },
+      {
+        question: "Which disaster has unanticipated and prolonged consequences?",
+        options: ["Bioterrorism", "Earthquake", "Hurricane"],
+        correctAnswer: "Bioterrorism",
+      },
+      {
+        question: "Which of the following is NOT a function of a hospital in disaster management?",
+        options: ["Treating victims", "Providing emotional support", "Producing early warning weather forecasts"],
+        correctAnswer: "Producing early warning weather forecasts",
+      },
+    ]
+  },
+  {
+    id: 10,
+    title: "LGBTQ+",
+    description: "LGBTQ+",
+    video: "https://path/to/video.mp4", // Link to a video
+    content: 
+    <div style={{ padding: '20px', backgroundColor: '#f4f4f9', borderRadius: '8px', color: '#333' }}>
+    <h2 style={{ textAlign: 'center', color: '#007bff' }}>🌈 The Gender Spectrum: It's More Than Just Pink and Blue!</h2>
+  
+    <p>Gender identity is like a wardrobe: sometimes you're feeling "classic man," other days it's "flamboyant woman," or maybe a little "agender" with no labels at all. But guess what? That's totally okay! It’s all about how YOU identify.</p>
+  
+    <h3>🦄 What's the Difference Between Gender Identity and Biological Sex?</h3>
+    <p><strong>Gender identity</strong> is like your favorite playlist: you can shuffle it, repeat, or just vibe to it as it comes. You're free to define it however you like! 🚀</p>
+    <p><strong>Biological sex</strong> is assigned at birth based on things like your chromosomes and what the doctor saw. But hey, that’s just one chapter of your book!</p>
+  
+    <h3>🌀 Welcome to the Gender Spectrum</h3>
+    <p>It’s not a binary world, it’s more of a rainbow with plenty of shades!</p>
+  
+    <ul style={{ paddingLeft: '20px' }}>
+      <li><strong>Agender</strong>: No gender, or just don’t want to pick one. Sometimes, it’s like choosing a TV show to binge-watch – there’s just too many options!</li>
+      <li><strong>Cisgender</strong>: You’re cool with the gender assigned to you at birth. Basically, you’re just chillin’ in your assigned lane!</li>
+      <li><strong>Genderqueer</strong>: You’re not playing by society’s rules. Think of it as mixing all your favorite pizza toppings. You do you!</li>
+      <li><strong>Nonbinary</strong>: Don’t want to be boxed in. Kind of like how everyone feels about their phone’s battery percentage – it’s just complicated.</li>
+      <li><strong>Polygender/Pangender</strong>: You're experiencing a little bit of everything. It’s like switching your music mood from pop to jazz, and then rock.</li>
+      <li><strong>Transgender</strong>: You’re living your truth, no matter what label you started with. It's like being a caterpillar and then deciding you want to be a butterfly – wings and all!</li>
+    </ul>
+  
+    <h3>🌟 Sexual Orientations: It's Not All About the "Hearts and Flowers"!</h3>
+    <p><strong>Lesbian</strong>: A woman who loves other women. Sometimes, it's like having a bestie who knows your favorite ice cream flavor!</p>
+    <p><strong>Gay</strong>: Love is love! Whether you’re a guy who likes guys, or a gal who likes gals – it’s all about the vibes. 💖</p>
+    <p><strong>Bisexual</strong>: You enjoy the best of both worlds. It's like being at an all-you-can-eat buffet, but with love! 🍴</p>
+    <p><strong>Questioning</strong>: You’re on the "figuring it out" journey, and that’s perfectly fine. Sometimes, you need to try out different hats before you find the perfect one.</p>
+  
+    <h3>🙄 Common Myths About LGBTQ2+ Folks</h3>
+    <ul style={{ paddingLeft: '20px' }}>
+      <li>Myth 1: "It’s just a phase." – Nah, it's not a TikTok trend, it’s who they are! 📱</li>
+      <li>Myth 2: "You can tell who LGBTQ2 youth are." – Spoiler alert: not everyone wears rainbow flags! 🏳️‍🌈</li>
+      <li>Myth 3: "LGBTQ2 youth are too flamboyant." – Sometimes, they're just living their lives. Can we say, “calm down”?</li>
+      <li>Myth 4: "Sex and gender are the same." – Oops, you might want to Google that one again! 🔍</li>
+      <li>Myth 5: "Gender-neutral bathrooms are unsafe." – Because, you know, safe space equals chaos, right?</li>
+    </ul>
+  
+    <h3>💡 Why Do We Need to Challenge These Myths?</h3>
+    <p>Because when we understand the real stories behind LGBTQ2+ experiences, we break down the walls of ignorance and hate. It’s like moving from dial-up internet to fiber optic speed – everything just gets smoother!</p>
+  
+    <h3>🚑 Nurses' Role in the LGBTQ+ Community</h3>
+    <p>As nurses, we are the superheroes (without the cape) who promote inclusivity, understanding, and provide the care LGBTQ+ individuals deserve. Whether it's through education, preventing bullying, or offering gender-affirming care, we make a huge impact in breaking barriers. 🦸‍♀️🦸‍♂️</p>
+  
+    <p><strong>Fun Fact</strong>: Nurses can also help change public health policies to fight discrimination. Who knew saving lives came with such a cool bonus? 🎉</p>
+  
+    <h3>🌈 And Remember:</h3>
+    <p>Gender and sexuality are all about freedom – freedom to express, love, and just be yourself. So let's keep being fabulous, inclusive, and ever-ready to educate the world. 💖</p>
+  </div>
+  
+,
+  
+   
+    quiz:[
+      {
+        question: "What is gender identity?",
+        options: [
+          "An individual’s self-conception as a man or woman or some combination of both",
+          "The biological sex assigned at birth",
+          "A person's physical appearance",
+        ],
+        correctAnswer: "An individual’s self-conception as a man or woman or some combination of both",
+      },
+      {
+        question: "What is the main difference between gender identity and biological sex?",
+        options: [
+          "Gender identity is based on medical factors, while biological sex is a self-conception",
+          "Biological sex is assigned at birth based on chromosomes, hormones, and genitals, while gender identity is a personal self-conception",
+          "Gender identity is a label given at birth, while biological sex changes over time",
+        ],
+        correctAnswer: "Biological sex is assigned at birth based on chromosomes, hormones, and genitals, while gender identity is a personal self-conception",
+      },
+      {
+        question: "What is the definition of a cisgender person?",
+        options: [
+          "A person who identifies with the sex assigned at birth",
+          "A person who identifies as neither male nor female",
+          "A person who identifies with a combination of genders",
+        ],
+        correctAnswer: "A person who identifies with the sex assigned at birth",
+      },
+      {
+        question: "What does genderqueer mean?",
+        options: [
+          "A person who identifies with both male and female characteristics",
+          "A person who identifies outside of traditional gender norms",
+          "A person who does not experience any gender at all",
+        ],
+        correctAnswer: "A person who identifies outside of traditional gender norms",
+      },
+      {
+        question: "What does nonbinary mean?",
+        options: [
+          "A person who does not identify with the binary gender system of male or female",
+          "A person who is both male and female",
+          "A person who identifies as male and female depending on the situation",
+        ],
+        correctAnswer: "A person who does not identify with the binary gender system of male or female",
+      },
+      {
+        question: "What is the difference between polygender and pangender?",
+        options: [
+          "Polygender refers to someone who experiences parts of multiple genders, while pangender refers to someone who experiences all genders",
+          "Polygender is a gender identity, while pangender refers to sexual orientation",
+          "Polygender people experience no gender at all, while pangender people are born with multiple genders",
+        ],
+        correctAnswer: "Polygender refers to someone who experiences parts of multiple genders, while pangender refers to someone who experiences all genders",
+      },
+      {
+        question: "What is the definition of transgender?",
+        options: [
+          "A person whose gender identity is different from the sex assigned at birth",
+          "A person who identifies as a combination of male and female",
+          "A person who does not identify with any gender",
+        ],
+        correctAnswer: "A person whose gender identity is different from the sex assigned at birth",
+      },
+      {
+        question: "What is the correct term for a woman attracted to other women?",
+        options: [
+          "Bisexual",
+          "Lesbian",
+          "Transgender",
+        ],
+        correctAnswer: "Lesbian",
+      },
+      {
+        question: "What does bisexual mean?",
+        options: [
+          "A person attracted to people of the opposite gender only",
+          "A person attracted to people of both the same and different genders",
+          "A person who does not experience romantic attraction to anyone",
+        ],
+        correctAnswer: "A person attracted to people of both the same and different genders",
+      },
+      {
+        question: "What does the 'Q' in LGBTQ+ stand for?",
+        options: [
+          "Questioning",
+          "Queer",
+          "Quality",
+        ],
+        correctAnswer: "Questioning",
+      },
+      {
+        question: "What does the '+' in LGBTQ+ signify?",
+        options: [
+          "The inclusion of all sexual orientations and gender identities that are not represented by the acronym",
+          "The support of LGBTQ+ rights",
+          "A specific sexual identity not mentioned in the acronym",
+        ],
+        correctAnswer: "The inclusion of all sexual orientations and gender identities that are not represented by the acronym",
+      },
+      {
+        question: "Which of the following is a common misconception about sexual orientation?",
+        options: [
+          "Sexual orientation is a choice",
+          "You can tell who LGBTQ+ youth are just by looking at them",
+          "All LGBTQ+ people are attracted to the same sex",
+        ],
+        correctAnswer: "You can tell who LGBTQ+ youth are just by looking at them",
+      },
+      {
+        question: "What is one important role of nurses in the LGBTQ+ community?",
+        options: [
+          "Educating about sex and sexual diversity",
+          "Excluding LGBTQ+ patients from care",
+          "Promoting gender-neutral bathrooms",
+        ],
+        correctAnswer: "Educating about sex and sexual diversity",
+      },
+      {
+        question: "What is a common stereotype related to LGBTQ+ youth?",
+        options: [
+          "LGBTQ+ youth are all flamboyant",
+          "LGBTQ+ youth are always shy",
+          "LGBTQ+ youth can never be leaders",
+        ],
+        correctAnswer: "LGBTQ+ youth are all flamboyant",
+      },
+      {
+        question: "What is agender?",
+        options: [
+          "A person who identifies with multiple genders",
+          "A person who identifies with no gender at all",
+          "A person who identifies with only one gender",
+        ],
+        correctAnswer: "A person who identifies with no gender at all",
+      },
+      {
+        question: "What is the main reason why challenging misconceptions about sexual orientation is important?",
+        options: [
+          "To perpetuate societal norms",
+          "To prevent discrimination and marginalization",
+          "To increase confusion about gender identity",
+        ],
+        correctAnswer: "To prevent discrimination and marginalization",
+      },
+      {
+        question: "What does the term 'gender-neutral' refer to?",
+        options: [
+          "A person who identifies as both male and female",
+          "A space or practice that does not emphasize one gender over another",
+          "A person who identifies with no gender at all",
+        ],
+        correctAnswer: "A space or practice that does not emphasize one gender over another",
+      },
+      {
+        question: "What is the role of public health nurses in supporting the LGBTQ+ community?",
+        options: [
+          "Ignoring health disparities",
+          "Providing gender-affirming care and raising awareness about health issues",
+          "Supporting only heterosexual patients",
+        ],
+        correctAnswer: "Providing gender-affirming care and raising awareness about health issues",
+      },
+      {
+        question: "What is an example of a misconception about gender-neutral bathrooms?",
+        options: [
+          "They create unsafe environments",
+          "They are more expensive to build",
+          "They are not accessible to everyone",
+        ],
+        correctAnswer: "They create unsafe environments",
+      },
+      {
+        question: "Which of the following is not a correct stereotype about LGBTQ+ youth?",
+        options: [
+          "They are too flamboyant",
+          "They are often shy and introverted",
+          "They are not allowed to express themselves openly",
+        ],
+        correctAnswer: "They are often shy and introverted",
+      },
+      {
+        question: "Which gender identity refers to someone who does not conform to society's expectations of gender?",
+        options: [
+          "Genderqueer",
+          "Transgender",
+          "Cisgender",
+        ],
+        correctAnswer: "Genderqueer",
+      },
+      {
+        question: "What is one of the misconceptions about LGBTQ2+ youth?",
+        options: [
+          "They are only attracted to people of the same gender",
+          "They are too flamboyant",
+          "They are confused about their identity",
+        ],
+        correctAnswer: "They are too flamboyant",
+      },
+      {
+        question: "What does transgender encompass?",
+        options: [
+          "People who identify with the sex assigned at birth",
+          "People who identify with a gender different from their assigned sex at birth",
+          "People who are born with multiple genders",
+        ],
+        correctAnswer: "People who identify with a gender different from their assigned sex at birth",
+      },
+      {
+        question: "Which term refers to a person who identifies with more than one gender?",
+        options: [
+          "Agender",
+          "Polygender",
+          "Nonbinary",
+        ],
+        correctAnswer: "Polygender",
+      },
+      {
+        question: "What does the concept of 'genderfluid' refer to?",
+        options: [
+          "A person whose gender identity fluctuates between different genders",
+          "A person who is completely gender-neutral",
+          "A person who identifies as both male and female",
+        ],
+        correctAnswer: "A person whose gender identity fluctuates between different genders",
+      },
+      {
+        question: "What does 'cisgender' mean?",
+        options: [
+          "Someone who does not identify with the gender assigned at birth",
+          "Someone who identifies with the gender assigned at birth",
+          "Someone who is born with no gender",
+        ],
+        correctAnswer: "Someone who identifies with the gender assigned at birth",
+      },
+      {
+        question: "What is one of the most important roles of public health nurses in the LGBTQ+ community?",
+        options: [
+          "Providing inclusive education about sexual orientation and gender diversity",
+          "Promoting exclusion of LGBTQ+ individuals",
+          "Discouraging LGBTQ+ rights in healthcare",
+        ],
+        correctAnswer: "Providing inclusive education about sexual orientation and gender diversity",
+      }
     ]
   },
 
